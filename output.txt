@@ -1,0 +1,12 @@
+Name: Mateusz
+Surname: Litwinowicz
+Departure City: Vilnius
+Flight Details: Vilnius - Rome with Ryanair. Gate: 54.
+Flight Class: BusinessClass
+Meal Preference: Regular Meal
+Baggage Allowance: 1 cabin bag (max. 8kg) + 1 checked bag (max. 20kg)
+Seat: 11
+Departure Date: 2024-09-03
+Boarding Time: 08:00 AM
+Ticket Number: 822262753176
+
