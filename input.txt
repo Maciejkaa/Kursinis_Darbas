@@ -1,0 +1,2162 @@
+Andorra la Vella,Tirana,Ryanair,10
+Andorra la Vella,Vienna,Lufthansa,56
+Andorra la Vella,Minsk,Wizz Air,76
+Andorra la Vella,Brussels,Air France,77
+Andorra la Vella,Sarajevo,United Airlines,34
+Andorra la Vella,Sofia,Air France,87
+Andorra la Vella,Zagreb,Lufthansa,62
+Andorra la Vella,Nicosia,Wizz Air,23
+Andorra la Vella,Prague,Singapore Airlines,88
+Andorra la Vella,Copenhagen,Wizz Air,98
+Andorra la Vella,Tallinn,Qatar Airways,80
+Andorra la Vella,Helsinki,LOT,90
+Andorra la Vella,Paris,Ryanair,41
+Andorra la Vella,Tbilisi,Wizz Air,59
+Andorra la Vella,Berlin,Wizz Air,74
+Andorra la Vella,Athens,Ryanair,08
+Andorra la Vella,Budapest,Wizz Air,52
+Andorra la Vella,Reykjavik,Qatar Airways,33
+Andorra la Vella,Dublin,United Airlines,37
+Andorra la Vella,Rome,Lufthansa,45
+Andorra la Vella,Pristina,Emirates,82
+Andorra la Vella,Riga,Wizz Air,52
+Andorra la Vella,Vaduz,Wizz Air,14
+Andorra la Vella,Vilnius,British Airways,82
+Andorra la Vella,Luxembourg,United Airlines,76
+Andorra la Vella,Skopje,British Airways,02
+Andorra la Vella,Valletta,British Airways,63
+Andorra la Vella,Chisinau,Qatar Airways,08
+Andorra la Vella,Monaco,Air France,91
+Andorra la Vella,Podgorica,Wizz Air,73
+Andorra la Vella,Amsterdam,United Airlines,26
+Andorra la Vella,Oslo,Ryanair,95
+Andorra la Vella,Warsaw,Ryanair,94
+Andorra la Vella,Lisbon,United Airlines,02
+Andorra la Vella,Bucharest,Air France,08
+Andorra la Vella,Moscow,Ryanair,66
+Andorra la Vella,San Marino,Air France,99
+Andorra la Vella,Belgrade,Singapore Airlines,72
+Andorra la Vella,Bratislava,Singapore Airlines,56
+Andorra la Vella,Ljubljana,Lufthansa,74
+Andorra la Vella,Madrid,British Airways,02
+Andorra la Vella,Stockholm,Lufthansa,19
+Andorra la Vella,Bern,Wizz Air,87
+Andorra la Vella,Ankara,Emirates,10
+Andorra la Vella,Kyiv,Emirates,55
+Andorra la Vella,London,Emirates,45
+Tirana,Andorra la Vella,Ryanair,50
+Tirana,Vienna,Air France,10
+Tirana,Minsk,Air France,77
+Tirana,Brussels,Ryanair,37
+Tirana,Sarajevo,Air France,50
+Tirana,Sofia,Wizz Air,79
+Tirana,Zagreb,British Airways,76
+Tirana,Nicosia,United Airlines,13
+Tirana,Prague,Lufthansa,87
+Tirana,Copenhagen,British Airways,09
+Tirana,Tallinn,United Airlines,96
+Tirana,Helsinki,Lufthansa,60
+Tirana,Paris,Wizz Air,48
+Tirana,Tbilisi,Lufthansa,78
+Tirana,Berlin,Qatar Airways,84
+Tirana,Athens,Qatar Airways,44
+Tirana,Budapest,Emirates,65
+Tirana,Reykjavik,Lufthansa,54
+Tirana,Dublin,United Airlines,38
+Tirana,Rome,Emirates,80
+Tirana,Pristina,Qatar Airways,63
+Tirana,Riga,United Airlines,32
+Tirana,Vaduz,Air France,81
+Tirana,Vilnius,LOT,94
+Tirana,Luxembourg,LOT,78
+Tirana,Skopje,Air France,55
+Tirana,Valletta,LOT,58
+Tirana,Chisinau,Ryanair,89
+Tirana,Monaco,Wizz Air,12
+Tirana,Podgorica,Ryanair,24
+Tirana,Amsterdam,Qatar Airways,25
+Tirana,Oslo,United Airlines,94
+Tirana,Warsaw,Air France,13
+Tirana,Lisbon,LOT,81
+Tirana,Bucharest,Air France,65
+Tirana,Moscow,Ryanair,16
+Tirana,San Marino,Air France,76
+Tirana,Belgrade,Air France,81
+Tirana,Bratislava,Air France,02
+Tirana,Ljubljana,Singapore Airlines,39
+Tirana,Madrid,Emirates,05
+Tirana,Stockholm,Air France,29
+Tirana,Bern,Emirates,06
+Tirana,Ankara,Ryanair,78
+Tirana,Kyiv,British Airways,48
+Tirana,London,Qatar Airways,43
+Vienna,Andorra la Vella,British Airways,72
+Vienna,Tirana,Singapore Airlines,32
+Vienna,Minsk,Lufthansa,57
+Vienna,Brussels,Emirates,54
+Vienna,Sarajevo,United Airlines,90
+Vienna,Sofia,Ryanair,95
+Vienna,Zagreb,Emirates,53
+Vienna,Nicosia,British Airways,76
+Vienna,Prague,British Airways,18
+Vienna,Copenhagen,Qatar Airways,94
+Vienna,Tallinn,Qatar Airways,73
+Vienna,Helsinki,Qatar Airways,37
+Vienna,Paris,Qatar Airways,52
+Vienna,Tbilisi,Ryanair,57
+Vienna,Berlin,Ryanair,37
+Vienna,Athens,Ryanair,86
+Vienna,Budapest,Ryanair,44
+Vienna,Reykjavik,Lufthansa,61
+Vienna,Dublin,Qatar Airways,88
+Vienna,Rome,Lufthansa,45
+Vienna,Pristina,Air France,35
+Vienna,Riga,British Airways,75
+Vienna,Vaduz,Singapore Airlines,54
+Vienna,Vilnius,Ryanair,95
+Vienna,Luxembourg,Emirates,68
+Vienna,Skopje,Ryanair,12
+Vienna,Valletta,Air France,46
+Vienna,Chisinau,Lufthansa,79
+Vienna,Monaco,Emirates,72
+Vienna,Podgorica,British Airways,41
+Vienna,Amsterdam,Air France,15
+Vienna,Oslo,United Airlines,45
+Vienna,Warsaw,Air France,66
+Vienna,Lisbon,LOT,03
+Vienna,Bucharest,Qatar Airways,72
+Vienna,Moscow,Lufthansa,37
+Vienna,San Marino,Singapore Airlines,86
+Vienna,Belgrade,Emirates,34
+Vienna,Bratislava,Qatar Airways,15
+Vienna,Ljubljana,Ryanair,56
+Vienna,Madrid,British Airways,88
+Vienna,Stockholm,Ryanair,10
+Vienna,Bern,Air France,49
+Vienna,Ankara,United Airlines,11
+Vienna,Kyiv,Ryanair,57
+Vienna,London,Emirates,94
+Minsk,Andorra la Vella,LOT,12
+Minsk,Tirana,Wizz Air,83
+Minsk,Vienna,Singapore Airlines,74
+Minsk,Brussels,Wizz Air,11
+Minsk,Sarajevo,Wizz Air,25
+Minsk,Sofia,Wizz Air,24
+Minsk,Zagreb,Emirates,24
+Minsk,Nicosia,United Airlines,84
+Minsk,Prague,Wizz Air,73
+Minsk,Copenhagen,British Airways,86
+Minsk,Tallinn,Wizz Air,31
+Minsk,Helsinki,Emirates,12
+Minsk,Paris,Qatar Airways,19
+Minsk,Tbilisi,Ryanair,54
+Minsk,Berlin,LOT,98
+Minsk,Athens,Emirates,51
+Minsk,Budapest,Air France,75
+Minsk,Reykjavik,Emirates,10
+Minsk,Dublin,LOT,41
+Minsk,Rome,Ryanair,36
+Minsk,Pristina,Ryanair,75
+Minsk,Riga,British Airways,76
+Minsk,Vaduz,Emirates,49
+Minsk,Vilnius,British Airways,21
+Minsk,Luxembourg,Emirates,65
+Minsk,Skopje,Singapore Airlines,28
+Minsk,Valletta,United Airlines,44
+Minsk,Chisinau,British Airways,29
+Minsk,Monaco,United Airlines,97
+Minsk,Podgorica,Ryanair,90
+Minsk,Amsterdam,LOT,88
+Minsk,Oslo,Qatar Airways,62
+Minsk,Warsaw,British Airways,50
+Minsk,Lisbon,United Airlines,97
+Minsk,Bucharest,United Airlines,28
+Minsk,Moscow,Emirates,74
+Minsk,San Marino,Qatar Airways,96
+Minsk,Belgrade,Qatar Airways,30
+Minsk,Bratislava,Air France,31
+Minsk,Ljubljana,Singapore Airlines,96
+Minsk,Madrid,Singapore Airlines,86
+Minsk,Stockholm,British Airways,71
+Minsk,Bern,British Airways,96
+Minsk,Ankara,British Airways,25
+Minsk,Kyiv,Ryanair,40
+Minsk,London,Air France,07
+Brussels,Andorra la Vella,Wizz Air,36
+Brussels,Tirana,Air France,24
+Brussels,Vienna,United Airlines,67
+Brussels,Minsk,Lufthansa,77
+Brussels,Sarajevo,Emirates,04
+Brussels,Sofia,British Airways,69
+Brussels,Zagreb,Ryanair,38
+Brussels,Nicosia,Emirates,55
+Brussels,Prague,Ryanair,22
+Brussels,Copenhagen,Lufthansa,84
+Brussels,Tallinn,LOT,51
+Brussels,Helsinki,United Airlines,41
+Brussels,Paris,Ryanair,30
+Brussels,Tbilisi,LOT,73
+Brussels,Berlin,Emirates,35
+Brussels,Athens,Lufthansa,96
+Brussels,Budapest,Lufthansa,75
+Brussels,Reykjavik,Lufthansa,26
+Brussels,Dublin,United Airlines,41
+Brussels,Rome,Ryanair,21
+Brussels,Pristina,Ryanair,46
+Brussels,Riga,Wizz Air,07
+Brussels,Vaduz,Wizz Air,45
+Brussels,Vilnius,British Airways,35
+Brussels,Luxembourg,Emirates,14
+Brussels,Skopje,Emirates,59
+Brussels,Valletta,Wizz Air,60
+Brussels,Chisinau,Qatar Airways,04
+Brussels,Monaco,Air France,76
+Brussels,Podgorica,Air France,55
+Brussels,Amsterdam,United Airlines,59
+Brussels,Oslo,Lufthansa,69
+Brussels,Warsaw,Qatar Airways,03
+Brussels,Lisbon,Air France,64
+Brussels,Bucharest,Air France,73
+Brussels,Moscow,United Airlines,02
+Brussels,San Marino,Wizz Air,07
+Brussels,Belgrade,British Airways,74
+Brussels,Bratislava,Qatar Airways,39
+Brussels,Ljubljana,Lufthansa,28
+Brussels,Madrid,Ryanair,83
+Brussels,Stockholm,Lufthansa,49
+Brussels,Bern,LOT,92
+Brussels,Ankara,Emirates,58
+Brussels,Kyiv,Ryanair,31
+Brussels,London,Qatar Airways,86
+Sarajevo,Andorra la Vella,Emirates,08
+Sarajevo,Tirana,Singapore Airlines,86
+Sarajevo,Vienna,Air France,76
+Sarajevo,Minsk,Air France,03
+Sarajevo,Brussels,British Airways,81
+Sarajevo,Sofia,Singapore Airlines,30
+Sarajevo,Zagreb,Singapore Airlines,89
+Sarajevo,Nicosia,United Airlines,73
+Sarajevo,Prague,United Airlines,74
+Sarajevo,Copenhagen,LOT,02
+Sarajevo,Tallinn,Lufthansa,49
+Sarajevo,Helsinki,United Airlines,82
+Sarajevo,Paris,Lufthansa,25
+Sarajevo,Tbilisi,Air France,34
+Sarajevo,Berlin,Qatar Airways,69
+Sarajevo,Athens,LOT,80
+Sarajevo,Budapest,United Airlines,99
+Sarajevo,Reykjavik,Emirates,91
+Sarajevo,Dublin,Wizz Air,11
+Sarajevo,Rome,LOT,01
+Sarajevo,Pristina,United Airlines,06
+Sarajevo,Riga,Singapore Airlines,10
+Sarajevo,Vaduz,Lufthansa,53
+Sarajevo,Vilnius,Ryanair,96
+Sarajevo,Luxembourg,Singapore Airlines,65
+Sarajevo,Skopje,Qatar Airways,06
+Sarajevo,Valletta,Qatar Airways,11
+Sarajevo,Chisinau,Air France,40
+Sarajevo,Monaco,Wizz Air,24
+Sarajevo,Podgorica,Air France,89
+Sarajevo,Amsterdam,British Airways,22
+Sarajevo,Oslo,Air France,12
+Sarajevo,Warsaw,Wizz Air,64
+Sarajevo,Lisbon,British Airways,70
+Sarajevo,Bucharest,Emirates,72
+Sarajevo,Moscow,Qatar Airways,84
+Sarajevo,San Marino,Lufthansa,89
+Sarajevo,Belgrade,Ryanair,45
+Sarajevo,Bratislava,Lufthansa,54
+Sarajevo,Ljubljana,Emirates,26
+Sarajevo,Madrid,United Airlines,43
+Sarajevo,Stockholm,United Airlines,47
+Sarajevo,Bern,Singapore Airlines,15
+Sarajevo,Ankara,Air France,84
+Sarajevo,Kyiv,Ryanair,39
+Sarajevo,London,LOT,56
+Sofia,Andorra la Vella,Lufthansa,05
+Sofia,Tirana,Singapore Airlines,51
+Sofia,Vienna,Ryanair,26
+Sofia,Minsk,Emirates,82
+Sofia,Brussels,United Airlines,51
+Sofia,Sarajevo,British Airways,93
+Sofia,Zagreb,Wizz Air,57
+Sofia,Nicosia,Emirates,66
+Sofia,Prague,Qatar Airways,93
+Sofia,Copenhagen,LOT,36
+Sofia,Tallinn,Singapore Airlines,39
+Sofia,Helsinki,LOT,44
+Sofia,Paris,Emirates,05
+Sofia,Tbilisi,Ryanair,39
+Sofia,Berlin,British Airways,32
+Sofia,Athens,LOT,99
+Sofia,Budapest,Singapore Airlines,99
+Sofia,Reykjavik,British Airways,30
+Sofia,Dublin,Singapore Airlines,76
+Sofia,Rome,British Airways,11
+Sofia,Pristina,Wizz Air,88
+Sofia,Riga,Ryanair,87
+Sofia,Vaduz,LOT,78
+Sofia,Vilnius,Ryanair,81
+Sofia,Luxembourg,LOT,25
+Sofia,Skopje,British Airways,62
+Sofia,Valletta,Wizz Air,32
+Sofia,Chisinau,Emirates,45
+Sofia,Monaco,United Airlines,07
+Sofia,Podgorica,Qatar Airways,03
+Sofia,Amsterdam,Ryanair,86
+Sofia,Oslo,Emirates,64
+Sofia,Warsaw,Wizz Air,66
+Sofia,Lisbon,LOT,82
+Sofia,Bucharest,Lufthansa,95
+Sofia,Moscow,Wizz Air,95
+Sofia,San Marino,Lufthansa,66
+Sofia,Belgrade,Air France,67
+Sofia,Bratislava,Singapore Airlines,29
+Sofia,Ljubljana,British Airways,55
+Sofia,Madrid,Wizz Air,69
+Sofia,Stockholm,LOT,69
+Sofia,Bern,Emirates,23
+Sofia,Ankara,Qatar Airways,36
+Sofia,Kyiv,Ryanair,36
+Sofia,London,Qatar Airways,75
+Zagreb,Andorra la Vella,Emirates,21
+Zagreb,Tirana,Air France,33
+Zagreb,Vienna,Qatar Airways,82
+Zagreb,Minsk,Lufthansa,19
+Zagreb,Brussels,Lufthansa,18
+Zagreb,Sarajevo,Lufthansa,83
+Zagreb,Sofia,LOT,80
+Zagreb,Nicosia,Singapore Airlines,69
+Zagreb,Prague,United Airlines,69
+Zagreb,Copenhagen,Singapore Airlines,74
+Zagreb,Tallinn,Emirates,42
+Zagreb,Helsinki,Qatar Airways,69
+Zagreb,Paris,LOT,23
+Zagreb,Tbilisi,Singapore Airlines,17
+Zagreb,Berlin,Ryanair,30
+Zagreb,Athens,Ryanair,48
+Zagreb,Budapest,Ryanair,49
+Zagreb,Reykjavik,Emirates,25
+Zagreb,Dublin,United Airlines,79
+Zagreb,Rome,Emirates,74
+Zagreb,Pristina,Lufthansa,68
+Zagreb,Riga,Air France,80
+Zagreb,Vaduz,British Airways,29
+Zagreb,Vilnius,Qatar Airways,22
+Zagreb,Luxembourg,United Airlines,09
+Zagreb,Skopje,LOT,09
+Zagreb,Valletta,United Airlines,88
+Zagreb,Chisinau,Singapore Airlines,65
+Zagreb,Monaco,LOT,97
+Zagreb,Podgorica,Emirates,99
+Zagreb,Amsterdam,Wizz Air,50
+Zagreb,Oslo,Wizz Air,10
+Zagreb,Warsaw,British Airways,08
+Zagreb,Lisbon,Singapore Airlines,18
+Zagreb,Bucharest,Lufthansa,81
+Zagreb,Moscow,Air France,47
+Zagreb,San Marino,Singapore Airlines,91
+Zagreb,Belgrade,British Airways,76
+Zagreb,Bratislava,Singapore Airlines,08
+Zagreb,Ljubljana,Singapore Airlines,32
+Zagreb,Madrid,United Airlines,60
+Zagreb,Stockholm,Lufthansa,20
+Zagreb,Bern,Emirates,91
+Zagreb,Ankara,Qatar Airways,93
+Zagreb,Kyiv,Ryanair,33
+Zagreb,London,United Airlines,80
+Nicosia,Andorra la Vella,Air France,26
+Nicosia,Tirana,Qatar Airways,65
+Nicosia,Vienna,Emirates,55
+Nicosia,Minsk,Singapore Airlines,62
+Nicosia,Brussels,LOT,70
+Nicosia,Sarajevo,British Airways,48
+Nicosia,Sofia,LOT,90
+Nicosia,Zagreb,Lufthansa,91
+Nicosia,Prague,Ryanair,16
+Nicosia,Copenhagen,Air France,30
+Nicosia,Tallinn,LOT,23
+Nicosia,Helsinki,British Airways,47
+Nicosia,Paris,Qatar Airways,68
+Nicosia,Tbilisi,Wizz Air,47
+Nicosia,Berlin,United Airlines,40
+Nicosia,Athens,United Airlines,98
+Nicosia,Budapest,Wizz Air,34
+Nicosia,Reykjavik,British Airways,22
+Nicosia,Dublin,LOT,08
+Nicosia,Rome,British Airways,76
+Nicosia,Pristina,Singapore Airlines,76
+Nicosia,Riga,British Airways,97
+Nicosia,Vaduz,LOT,57
+Nicosia,Vilnius,LOT,08
+Nicosia,Luxembourg,Singapore Airlines,14
+Nicosia,Skopje,Ryanair,70
+Nicosia,Valletta,Singapore Airlines,62
+Nicosia,Chisinau,British Airways,06
+Nicosia,Monaco,Singapore Airlines,15
+Nicosia,Podgorica,Singapore Airlines,27
+Nicosia,Amsterdam,Singapore Airlines,64
+Nicosia,Oslo,Air France,42
+Nicosia,Warsaw,Air France,85
+Nicosia,Lisbon,Lufthansa,63
+Nicosia,Bucharest,Singapore Airlines,91
+Nicosia,Moscow,LOT,36
+Nicosia,San Marino,British Airways,29
+Nicosia,Belgrade,Qatar Airways,42
+Nicosia,Bratislava,Qatar Airways,83
+Nicosia,Ljubljana,Lufthansa,68
+Nicosia,Madrid,Emirates,11
+Nicosia,Stockholm,United Airlines,52
+Nicosia,Bern,Lufthansa,16
+Nicosia,Ankara,Emirates,28
+Nicosia,Kyiv,Wizz Air,46
+Nicosia,London,Ryanair,67
+Prague,Andorra la Vella,Singapore Airlines,01
+Prague,Tirana,LOT,62
+Prague,Vienna,LOT,03
+Prague,Minsk,Emirates,21
+Prague,Brussels,Air France,11
+Prague,Sarajevo,Air France,13
+Prague,Sofia,Lufthansa,66
+Prague,Zagreb,Ryanair,97
+Prague,Nicosia,Emirates,82
+Prague,Copenhagen,United Airlines,90
+Prague,Tallinn,United Airlines,31
+Prague,Helsinki,Ryanair,06
+Prague,Paris,British Airways,48
+Prague,Tbilisi,United Airlines,47
+Prague,Berlin,Singapore Airlines,85
+Prague,Athens,Emirates,79
+Prague,Budapest,Wizz Air,46
+Prague,Reykjavik,Qatar Airways,79
+Prague,Dublin,United Airlines,58
+Prague,Rome,Emirates,18
+Prague,Pristina,Emirates,69
+Prague,Riga,Qatar Airways,52
+Prague,Vaduz,Singapore Airlines,40
+Prague,Vilnius,United Airlines,10
+Prague,Luxembourg,Singapore Airlines,17
+Prague,Skopje,Ryanair,08
+Prague,Valletta,Emirates,40
+Prague,Chisinau,Emirates,57
+Prague,Monaco,Singapore Airlines,09
+Prague,Podgorica,Lufthansa,77
+Prague,Amsterdam,LOT,66
+Prague,Oslo,Air France,96
+Prague,Warsaw,British Airways,96
+Prague,Lisbon,Emirates,71
+Prague,Bucharest,British Airways,56
+Prague,Moscow,Air France,40
+Prague,San Marino,Singapore Airlines,02
+Prague,Belgrade,United Airlines,34
+Prague,Bratislava,Emirates,51
+Prague,Ljubljana,Air France,01
+Prague,Madrid,Qatar Airways,85
+Prague,Stockholm,Air France,20
+Prague,Bern,Emirates,31
+Prague,Ankara,LOT,93
+Prague,Kyiv,Singapore Airlines,12
+Prague,London,Emirates,28
+Copenhagen,Andorra la Vella,Lufthansa,30
+Copenhagen,Tirana,Lufthansa,11
+Copenhagen,Vienna,LOT,83
+Copenhagen,Minsk,Emirates,43
+Copenhagen,Brussels,United Airlines,03
+Copenhagen,Sarajevo,Lufthansa,07
+Copenhagen,Sofia,United Airlines,34
+Copenhagen,Zagreb,Emirates,85
+Copenhagen,Nicosia,Qatar Airways,12
+Copenhagen,Prague,Air France,22
+Copenhagen,Tallinn,Wizz Air,57
+Copenhagen,Helsinki,Air France,67
+Copenhagen,Paris,Singapore Airlines,42
+Copenhagen,Tbilisi,British Airways,68
+Copenhagen,Berlin,Qatar Airways,51
+Copenhagen,Athens,British Airways,20
+Copenhagen,Budapest,United Airlines,69
+Copenhagen,Reykjavik,LOT,16
+Copenhagen,Dublin,Emirates,78
+Copenhagen,Rome,British Airways,92
+Copenhagen,Pristina,Lufthansa,84
+Copenhagen,Riga,Emirates,42
+Copenhagen,Vaduz,Emirates,03
+Copenhagen,Vilnius,Singapore Airlines,90
+Copenhagen,Luxembourg,Lufthansa,11
+Copenhagen,Skopje,Singapore Airlines,41
+Copenhagen,Valletta,Lufthansa,33
+Copenhagen,Chisinau,Lufthansa,82
+Copenhagen,Monaco,Qatar Airways,82
+Copenhagen,Podgorica,Air France,43
+Copenhagen,Amsterdam,United Airlines,96
+Copenhagen,Oslo,Qatar Airways,79
+Copenhagen,Warsaw,United Airlines,16
+Copenhagen,Lisbon,Wizz Air,86
+Copenhagen,Bucharest,Air France,41
+Copenhagen,Moscow,Singapore Airlines,54
+Copenhagen,San Marino,Qatar Airways,01
+Copenhagen,Belgrade,Emirates,45
+Copenhagen,Bratislava,British Airways,61
+Copenhagen,Ljubljana,Air France,90
+Copenhagen,Madrid,Ryanair,93
+Copenhagen,Stockholm,Lufthansa,55
+Copenhagen,Bern,United Airlines,97
+Copenhagen,Ankara,United Airlines,13
+Copenhagen,Kyiv,Lufthansa,77
+Copenhagen,London,Emirates,49
+Tallinn,Andorra la Vella,Emirates,37
+Tallinn,Tirana,Singapore Airlines,96
+Tallinn,Vienna,Qatar Airways,58
+Tallinn,Minsk,LOT,85
+Tallinn,Brussels,LOT,90
+Tallinn,Sarajevo,Lufthansa,32
+Tallinn,Sofia,Air France,69
+Tallinn,Zagreb,Wizz Air,78
+Tallinn,Nicosia,Emirates,77
+Tallinn,Prague,LOT,27
+Tallinn,Copenhagen,Wizz Air,80
+Tallinn,Helsinki,Ryanair,04
+Tallinn,Paris,Wizz Air,04
+Tallinn,Tbilisi,British Airways,75
+Tallinn,Berlin,British Airways,92
+Tallinn,Athens,LOT,92
+Tallinn,Budapest,Singapore Airlines,55
+Tallinn,Reykjavik,Singapore Airlines,71
+Tallinn,Dublin,Lufthansa,07
+Tallinn,Rome,Emirates,84
+Tallinn,Pristina,Emirates,24
+Tallinn,Riga,Qatar Airways,60
+Tallinn,Vaduz,Qatar Airways,46
+Tallinn,Vilnius,Wizz Air,30
+Tallinn,Luxembourg,Qatar Airways,46
+Tallinn,Skopje,Lufthansa,74
+Tallinn,Valletta,United Airlines,03
+Tallinn,Chisinau,British Airways,85
+Tallinn,Monaco,LOT,15
+Tallinn,Podgorica,LOT,81
+Tallinn,Amsterdam,Ryanair,85
+Tallinn,Oslo,Emirates,31
+Tallinn,Warsaw,Lufthansa,13
+Tallinn,Lisbon,British Airways,64
+Tallinn,Bucharest,Lufthansa,71
+Tallinn,Moscow,British Airways,98
+Tallinn,San Marino,Lufthansa,76
+Tallinn,Belgrade,Air France,93
+Tallinn,Bratislava,Air France,25
+Tallinn,Ljubljana,LOT,03
+Tallinn,Madrid,United Airlines,73
+Tallinn,Stockholm,Singapore Airlines,29
+Tallinn,Bern,LOT,84
+Tallinn,Ankara,LOT,10
+Tallinn,Kyiv,Qatar Airways,06
+Tallinn,London,Emirates,25
+Helsinki,Andorra la Vella,Ryanair,90
+Helsinki,Tirana,Ryanair,35
+Helsinki,Vienna,Ryanair,26
+Helsinki,Minsk,British Airways,88
+Helsinki,Brussels,United Airlines,77
+Helsinki,Sarajevo,Lufthansa,96
+Helsinki,Sofia,Qatar Airways,75
+Helsinki,Zagreb,Ryanair,57
+Helsinki,Nicosia,Emirates,27
+Helsinki,Prague,United Airlines,93
+Helsinki,Copenhagen,Qatar Airways,05
+Helsinki,Tallinn,Lufthansa,64
+Helsinki,Paris,United Airlines,69
+Helsinki,Tbilisi,Singapore Airlines,92
+Helsinki,Berlin,Ryanair,74
+Helsinki,Athens,British Airways,13
+Helsinki,Budapest,Singapore Airlines,20
+Helsinki,Reykjavik,United Airlines,38
+Helsinki,Dublin,Air France,97
+Helsinki,Rome,United Airlines,85
+Helsinki,Pristina,Air France,59
+Helsinki,Riga,Ryanair,24
+Helsinki,Vaduz,Air France,15
+Helsinki,Vilnius,Qatar Airways,66
+Helsinki,Luxembourg,Air France,02
+Helsinki,Skopje,Emirates,96
+Helsinki,Valletta,United Airlines,96
+Helsinki,Chisinau,Wizz Air,18
+Helsinki,Monaco,British Airways,53
+Helsinki,Podgorica,British Airways,63
+Helsinki,Amsterdam,Lufthansa,62
+Helsinki,Oslo,Lufthansa,54
+Helsinki,Warsaw,Singapore Airlines,96
+Helsinki,Lisbon,Wizz Air,99
+Helsinki,Bucharest,LOT,63
+Helsinki,Moscow,Emirates,73
+Helsinki,San Marino,Lufthansa,67
+Helsinki,Belgrade,Air France,17
+Helsinki,Bratislava,Emirates,67
+Helsinki,Ljubljana,Lufthansa,33
+Helsinki,Madrid,Ryanair,19
+Helsinki,Stockholm,Wizz Air,70
+Helsinki,Bern,British Airways,86
+Helsinki,Ankara,United Airlines,83
+Helsinki,Kyiv,Lufthansa,07
+Helsinki,London,Wizz Air,91
+Paris,Andorra la Vella,Emirates,68
+Paris,Tirana,Emirates,70
+Paris,Vienna,Qatar Airways,10
+Paris,Minsk,United Airlines,59
+Paris,Brussels,United Airlines,83
+Paris,Sarajevo,Ryanair,79
+Paris,Sofia,British Airways,19
+Paris,Zagreb,Singapore Airlines,25
+Paris,Nicosia,Wizz Air,89
+Paris,Prague,Air France,01
+Paris,Copenhagen,Qatar Airways,10
+Paris,Tallinn,Emirates,95
+Paris,Helsinki,Air France,80
+Paris,Tbilisi,Emirates,77
+Paris,Berlin,LOT,53
+Paris,Athens,British Airways,58
+Paris,Budapest,Ryanair,91
+Paris,Reykjavik,Wizz Air,52
+Paris,Dublin,Singapore Airlines,09
+Paris,Rome,Singapore Airlines,35
+Paris,Pristina,Emirates,86
+Paris,Riga,LOT,21
+Paris,Vaduz,Emirates,58
+Paris,Vilnius,LOT,46
+Paris,Luxembourg,Air France,18
+Paris,Skopje,Lufthansa,04
+Paris,Valletta,Singapore Airlines,48
+Paris,Chisinau,Air France,25
+Paris,Monaco,Qatar Airways,17
+Paris,Podgorica,LOT,52
+Paris,Amsterdam,British Airways,13
+Paris,Oslo,Singapore Airlines,43
+Paris,Warsaw,Emirates,40
+Paris,Lisbon,Air France,83
+Paris,Bucharest,British Airways,48
+Paris,Moscow,Ryanair,07
+Paris,San Marino,Singapore Airlines,77
+Paris,Belgrade,LOT,59
+Paris,Bratislava,Ryanair,75
+Paris,Ljubljana,British Airways,94
+Paris,Madrid,Singapore Airlines,88
+Paris,Stockholm,Emirates,94
+Paris,Bern,Qatar Airways,01
+Paris,Ankara,Wizz Air,11
+Paris,Kyiv,United Airlines,37
+Paris,London,Wizz Air,73
+Tbilisi,Andorra la Vella,Emirates,83
+Tbilisi,Tirana,Singapore Airlines,05
+Tbilisi,Vienna,Wizz Air,40
+Tbilisi,Minsk,United Airlines,10
+Tbilisi,Brussels,United Airlines,65
+Tbilisi,Sarajevo,Wizz Air,36
+Tbilisi,Sofia,Lufthansa,56
+Tbilisi,Zagreb,United Airlines,68
+Tbilisi,Nicosia,British Airways,94
+Tbilisi,Prague,Air France,03
+Tbilisi,Copenhagen,Wizz Air,64
+Tbilisi,Tallinn,Singapore Airlines,13
+Tbilisi,Helsinki,Lufthansa,93
+Tbilisi,Paris,Ryanair,47
+Tbilisi,Berlin,Qatar Airways,66
+Tbilisi,Athens,Qatar Airways,66
+Tbilisi,Budapest,Air France,23
+Tbilisi,Reykjavik,Emirates,14
+Tbilisi,Dublin,British Airways,50
+Tbilisi,Rome,Wizz Air,01
+Tbilisi,Pristina,Wizz Air,15
+Tbilisi,Riga,British Airways,42
+Tbilisi,Vaduz,Singapore Airlines,28
+Tbilisi,Vilnius,Singapore Airlines,81
+Tbilisi,Luxembourg,United Airlines,27
+Tbilisi,Skopje,Emirates,71
+Tbilisi,Valletta,LOT,50
+Tbilisi,Chisinau,Lufthansa,34
+Tbilisi,Monaco,Ryanair,70
+Tbilisi,Podgorica,Singapore Airlines,57
+Tbilisi,Amsterdam,Singapore Airlines,94
+Tbilisi,Oslo,Emirates,25
+Tbilisi,Warsaw,Air France,23
+Tbilisi,Lisbon,Singapore Airlines,83
+Tbilisi,Bucharest,Lufthansa,34
+Tbilisi,Moscow,Air France,70
+Tbilisi,San Marino,Wizz Air,60
+Tbilisi,Belgrade,United Airlines,03
+Tbilisi,Bratislava,Wizz Air,99
+Tbilisi,Ljubljana,Air France,11
+Tbilisi,Madrid,LOT,04
+Tbilisi,Stockholm,British Airways,59
+Tbilisi,Bern,Ryanair,42
+Tbilisi,Ankara,Singapore Airlines,46
+Tbilisi,Kyiv,Qatar Airways,11
+Tbilisi,London,Air France,85
+Berlin,Andorra la Vella,Ryanair,57
+Berlin,Tirana,Wizz Air,89
+Berlin,Vienna,British Airways,01
+Berlin,Minsk,Lufthansa,66
+Berlin,Brussels,Air France,68
+Berlin,Sarajevo,Qatar Airways,34
+Berlin,Sofia,United Airlines,40
+Berlin,Zagreb,Ryanair,11
+Berlin,Nicosia,LOT,62
+Berlin,Prague,LOT,21
+Berlin,Copenhagen,Lufthansa,05
+Berlin,Tallinn,Ryanair,82
+Berlin,Helsinki,Air France,02
+Berlin,Paris,Emirates,70
+Berlin,Tbilisi,Qatar Airways,10
+Berlin,Athens,Ryanair,33
+Berlin,Budapest,Air France,67
+Berlin,Reykjavik,Qatar Airways,33
+Berlin,Dublin,Emirates,91
+Berlin,Rome,British Airways,41
+Berlin,Pristina,Ryanair,80
+Berlin,Riga,Singapore Airlines,92
+Berlin,Vaduz,Air France,66
+Berlin,Vilnius,British Airways,78
+Berlin,Luxembourg,Lufthansa,96
+Berlin,Skopje,Qatar Airways,14
+Berlin,Valletta,Ryanair,58
+Berlin,Chisinau,Air France,30
+Berlin,Monaco,United Airlines,37
+Berlin,Podgorica,LOT,49
+Berlin,Amsterdam,Ryanair,66
+Berlin,Oslo,LOT,84
+Berlin,Warsaw,United Airlines,28
+Berlin,Lisbon,Air France,53
+Berlin,Bucharest,British Airways,08
+Berlin,Moscow,Singapore Airlines,10
+Berlin,San Marino,Air France,54
+Berlin,Belgrade,LOT,57
+Berlin,Bratislava,Air France,34
+Berlin,Ljubljana,Wizz Air,65
+Berlin,Madrid,Qatar Airways,04
+Berlin,Stockholm,Lufthansa,12
+Berlin,Bern,Qatar Airways,95
+Berlin,Ankara,Singapore Airlines,87
+Berlin,Kyiv,Emirates,62
+Berlin,London,Lufthansa,85
+Athens,Andorra la Vella,LOT,56
+Athens,Tirana,United Airlines,68
+Athens,Vienna,LOT,82
+Athens,Minsk,Wizz Air,27
+Athens,Brussels,Lufthansa,47
+Athens,Sarajevo,Ryanair,51
+Athens,Sofia,Emirates,74
+Athens,Zagreb,Ryanair,38
+Athens,Nicosia,British Airways,63
+Athens,Prague,British Airways,29
+Athens,Copenhagen,Ryanair,72
+Athens,Tallinn,Lufthansa,38
+Athens,Helsinki,Wizz Air,74
+Athens,Paris,Ryanair,71
+Athens,Tbilisi,Emirates,22
+Athens,Berlin,British Airways,15
+Athens,Budapest,Ryanair,38
+Athens,Reykjavik,Qatar Airways,41
+Athens,Dublin,United Airlines,46
+Athens,Rome,British Airways,86
+Athens,Pristina,British Airways,11
+Athens,Riga,United Airlines,47
+Athens,Vaduz,Qatar Airways,50
+Athens,Vilnius,Ryanair,63
+Athens,Luxembourg,United Airlines,84
+Athens,Skopje,Air France,88
+Athens,Valletta,Singapore Airlines,12
+Athens,Chisinau,Ryanair,01
+Athens,Monaco,Qatar Airways,27
+Athens,Podgorica,Lufthansa,38
+Athens,Amsterdam,LOT,20
+Athens,Oslo,Qatar Airways,88
+Athens,Warsaw,Ryanair,09
+Athens,Lisbon,LOT,87
+Athens,Bucharest,United Airlines,89
+Athens,Moscow,Wizz Air,34
+Athens,San Marino,Air France,09
+Athens,Belgrade,Singapore Airlines,44
+Athens,Bratislava,LOT,13
+Athens,Ljubljana,Lufthansa,40
+Athens,Madrid,LOT,73
+Athens,Stockholm,Ryanair,67
+Athens,Bern,British Airways,37
+Athens,Ankara,British Airways,21
+Athens,Kyiv,Ryanair,85
+Athens,London,LOT,69
+Budapest,Andorra la Vella,Ryanair,77
+Budapest,Tirana,British Airways,96
+Budapest,Vienna,British Airways,70
+Budapest,Minsk,Air France,48
+Budapest,Brussels,Air France,60
+Budapest,Sarajevo,Ryanair,83
+Budapest,Sofia,Qatar Airways,11
+Budapest,Zagreb,Ryanair,08
+Budapest,Nicosia,Qatar Airways,45
+Budapest,Prague,LOT,94
+Budapest,Copenhagen,United Airlines,09
+Budapest,Tallinn,British Airways,45
+Budapest,Helsinki,Qatar Airways,01
+Budapest,Paris,Air France,50
+Budapest,Tbilisi,Lufthansa,86
+Budapest,Berlin,Lufthansa,52
+Budapest,Athens,Singapore Airlines,55
+Budapest,Reykjavik,LOT,26
+Budapest,Dublin,Singapore Airlines,80
+Budapest,Rome,Air France,14
+Budapest,Pristina,Wizz Air,33
+Budapest,Riga,United Airlines,45
+Budapest,Vaduz,British Airways,24
+Budapest,Vilnius,Qatar Airways,18
+Budapest,Luxembourg,Wizz Air,30
+Budapest,Skopje,British Airways,48
+Budapest,Valletta,Air France,10
+Budapest,Chisinau,British Airways,67
+Budapest,Monaco,Air France,76
+Budapest,Podgorica,LOT,86
+Budapest,Amsterdam,United Airlines,87
+Budapest,Oslo,LOT,63
+Budapest,Warsaw,LOT,66
+Budapest,Lisbon,LOT,61
+Budapest,Bucharest,Air France,80
+Budapest,Moscow,Air France,74
+Budapest,San Marino,Air France,22
+Budapest,Belgrade,United Airlines,81
+Budapest,Bratislava,Qatar Airways,61
+Budapest,Ljubljana,Singapore Airlines,47
+Budapest,Madrid,United Airlines,52
+Budapest,Stockholm,British Airways,31
+Budapest,Bern,United Airlines,08
+Budapest,Ankara,United Airlines,77
+Budapest,Kyiv,Qatar Airways,87
+Budapest,London,Ryanair,69
+Reykjavik,Andorra la Vella,Emirates,30
+Reykjavik,Tirana,Air France,87
+Reykjavik,Vienna,LOT,70
+Reykjavik,Minsk,Emirates,70
+Reykjavik,Brussels,Lufthansa,25
+Reykjavik,Sarajevo,Wizz Air,83
+Reykjavik,Sofia,Wizz Air,38
+Reykjavik,Zagreb,Ryanair,22
+Reykjavik,Nicosia,Air France,43
+Reykjavik,Prague,United Airlines,83
+Reykjavik,Copenhagen,Singapore Airlines,67
+Reykjavik,Tallinn,Singapore Airlines,93
+Reykjavik,Helsinki,LOT,82
+Reykjavik,Paris,Ryanair,76
+Reykjavik,Tbilisi,Emirates,94
+Reykjavik,Berlin,Ryanair,90
+Reykjavik,Athens,Air France,36
+Reykjavik,Budapest,Singapore Airlines,54
+Reykjavik,Dublin,LOT,89
+Reykjavik,Rome,Singapore Airlines,67
+Reykjavik,Pristina,Ryanair,29
+Reykjavik,Riga,Emirates,02
+Reykjavik,Vaduz,Lufthansa,34
+Reykjavik,Vilnius,Lufthansa,47
+Reykjavik,Luxembourg,Qatar Airways,13
+Reykjavik,Skopje,Lufthansa,18
+Reykjavik,Valletta,LOT,89
+Reykjavik,Chisinau,Ryanair,17
+Reykjavik,Monaco,Qatar Airways,49
+Reykjavik,Podgorica,Air France,51
+Reykjavik,Amsterdam,Air France,96
+Reykjavik,Oslo,Wizz Air,06
+Reykjavik,Warsaw,Ryanair,69
+Reykjavik,Lisbon,Emirates,90
+Reykjavik,Bucharest,British Airways,35
+Reykjavik,Moscow,Wizz Air,59
+Reykjavik,San Marino,United Airlines,48
+Reykjavik,Belgrade,Singapore Airlines,52
+Reykjavik,Bratislava,Emirates,10
+Reykjavik,Ljubljana,Emirates,53
+Reykjavik,Madrid,Lufthansa,56
+Reykjavik,Stockholm,United Airlines,62
+Reykjavik,Bern,LOT,59
+Reykjavik,Ankara,LOT,64
+Reykjavik,Kyiv,Wizz Air,31
+Reykjavik,London,LOT,04
+Dublin,Andorra la Vella,Qatar Airways,87
+Dublin,Tirana,LOT,27
+Dublin,Vienna,Emirates,32
+Dublin,Minsk,LOT,22
+Dublin,Brussels,Ryanair,53
+Dublin,Sarajevo,Qatar Airways,22
+Dublin,Sofia,Qatar Airways,22
+Dublin,Zagreb,Ryanair,90
+Dublin,Nicosia,Singapore Airlines,68
+Dublin,Prague,Qatar Airways,96
+Dublin,Copenhagen,Emirates,11
+Dublin,Tallinn,United Airlines,11
+Dublin,Helsinki,Qatar Airways,15
+Dublin,Paris,Air France,06
+Dublin,Tbilisi,British Airways,94
+Dublin,Berlin,Air France,41
+Dublin,Athens,Qatar Airways,85
+Dublin,Budapest,Air France,80
+Dublin,Reykjavik,Lufthansa,12
+Dublin,Rome,LOT,13
+Dublin,Pristina,Ryanair,56
+Dublin,Riga,Emirates,87
+Dublin,Vaduz,LOT,33
+Dublin,Vilnius,LOT,21
+Dublin,Luxembourg,Singapore Airlines,41
+Dublin,Skopje,British Airways,52
+Dublin,Valletta,Qatar Airways,22
+Dublin,Chisinau,Lufthansa,13
+Dublin,Monaco,Lufthansa,25
+Dublin,Podgorica,United Airlines,98
+Dublin,Amsterdam,Ryanair,33
+Dublin,Oslo,United Airlines,29
+Dublin,Warsaw,Lufthansa,70
+Dublin,Lisbon,Wizz Air,86
+Dublin,Bucharest,Air France,96
+Dublin,Moscow,Emirates,72
+Dublin,San Marino,Wizz Air,81
+Dublin,Belgrade,United Airlines,59
+Dublin,Bratislava,LOT,84
+Dublin,Ljubljana,Singapore Airlines,44
+Dublin,Madrid,Singapore Airlines,15
+Dublin,Stockholm,Qatar Airways,97
+Dublin,Bern,British Airways,02
+Dublin,Ankara,Air France,19
+Dublin,Kyiv,United Airlines,74
+Dublin,London,Lufthansa,91
+Rome,Andorra la Vella,Singapore Airlines,80
+Rome,Tirana,Air France,71
+Rome,Vienna,LOT,84
+Rome,Minsk,Ryanair,08
+Rome,Brussels,Singapore Airlines,57
+Rome,Sarajevo,British Airways,53
+Rome,Sofia,Wizz Air,27
+Rome,Zagreb,LOT,16
+Rome,Nicosia,Emirates,44
+Rome,Prague,Ryanair,62
+Rome,Copenhagen,Wizz Air,28
+Rome,Tallinn,Singapore Airlines,21
+Rome,Helsinki,United Airlines,12
+Rome,Paris,United Airlines,91
+Rome,Tbilisi,Singapore Airlines,61
+Rome,Berlin,Singapore Airlines,01
+Rome,Athens,Qatar Airways,23
+Rome,Budapest,LOT,98
+Rome,Reykjavik,Qatar Airways,89
+Rome,Dublin,Lufthansa,51
+Rome,Pristina,Air France,50
+Rome,Riga,United Airlines,41
+Rome,Vaduz,Ryanair,98
+Rome,Vilnius,LOT,70
+Rome,Luxembourg,Emirates,76
+Rome,Skopje,Wizz Air,04
+Rome,Valletta,Air France,14
+Rome,Chisinau,Lufthansa,70
+Rome,Monaco,Singapore Airlines,45
+Rome,Podgorica,Qatar Airways,03
+Rome,Amsterdam,Air France,87
+Rome,Oslo,Lufthansa,43
+Rome,Warsaw,Lufthansa,90
+Rome,Lisbon,Lufthansa,10
+Rome,Bucharest,Lufthansa,92
+Rome,Moscow,United Airlines,68
+Rome,San Marino,United Airlines,96
+Rome,Belgrade,Ryanair,48
+Rome,Bratislava,Qatar Airways,11
+Rome,Ljubljana,Lufthansa,50
+Rome,Madrid,Lufthansa,75
+Rome,Stockholm,Ryanair,46
+Rome,Bern,Singapore Airlines,58
+Rome,Ankara,Qatar Airways,71
+Rome,Kyiv,British Airways,62
+Rome,London,Wizz Air,89
+Pristina,Andorra la Vella,Lufthansa,45
+Pristina,Tirana,Air France,62
+Pristina,Vienna,Qatar Airways,55
+Pristina,Minsk,LOT,44
+Pristina,Brussels,British Airways,16
+Pristina,Sarajevo,British Airways,55
+Pristina,Sofia,Emirates,93
+Pristina,Zagreb,Lufthansa,98
+Pristina,Nicosia,Singapore Airlines,17
+Pristina,Prague,United Airlines,32
+Pristina,Copenhagen,Emirates,91
+Pristina,Tallinn,Singapore Airlines,49
+Pristina,Helsinki,Qatar Airways,98
+Pristina,Paris,United Airlines,18
+Pristina,Tbilisi,Lufthansa,13
+Pristina,Berlin,LOT,58
+Pristina,Athens,Lufthansa,44
+Pristina,Budapest,Lufthansa,91
+Pristina,Reykjavik,Qatar Airways,94
+Pristina,Dublin,Lufthansa,31
+Pristina,Rome,British Airways,67
+Pristina,Riga,Wizz Air,21
+Pristina,Vaduz,Ryanair,67
+Pristina,Vilnius,Lufthansa,47
+Pristina,Luxembourg,LOT,27
+Pristina,Skopje,LOT,83
+Pristina,Valletta,Ryanair,95
+Pristina,Chisinau,United Airlines,57
+Pristina,Monaco,Emirates,82
+Pristina,Podgorica,Lufthansa,70
+Pristina,Amsterdam,LOT,72
+Pristina,Oslo,Emirates,20
+Pristina,Warsaw,Emirates,53
+Pristina,Lisbon,United Airlines,38
+Pristina,Bucharest,Qatar Airways,32
+Pristina,Moscow,Singapore Airlines,03
+Pristina,San Marino,Singapore Airlines,60
+Pristina,Belgrade,LOT,85
+Pristina,Bratislava,United Airlines,25
+Pristina,Ljubljana,Qatar Airways,31
+Pristina,Madrid,Qatar Airways,96
+Pristina,Stockholm,Air France,02
+Pristina,Bern,Singapore Airlines,12
+Pristina,Ankara,British Airways,51
+Pristina,Kyiv,Wizz Air,43
+Pristina,London,Singapore Airlines,13
+Riga,Andorra la Vella,Wizz Air,39
+Riga,Tirana,LOT,67
+Riga,Vienna,Wizz Air,12
+Riga,Minsk,Qatar Airways,54
+Riga,Brussels,United Airlines,09
+Riga,Sarajevo,Qatar Airways,71
+Riga,Sofia,British Airways,28
+Riga,Zagreb,Lufthansa,36
+Riga,Nicosia,Air France,96
+Riga,Prague,Qatar Airways,57
+Riga,Copenhagen,Lufthansa,09
+Riga,Tallinn,Emirates,47
+Riga,Helsinki,Singapore Airlines,50
+Riga,Paris,Air France,14
+Riga,Tbilisi,United Airlines,35
+Riga,Berlin,Emirates,86
+Riga,Athens,Singapore Airlines,58
+Riga,Budapest,Emirates,52
+Riga,Reykjavik,Wizz Air,72
+Riga,Dublin,Emirates,52
+Riga,Rome,Lufthansa,77
+Riga,Pristina,LOT,27
+Riga,Vaduz,Emirates,83
+Riga,Vilnius,United Airlines,54
+Riga,Luxembourg,Ryanair,92
+Riga,Skopje,LOT,37
+Riga,Valletta,LOT,46
+Riga,Chisinau,Air France,55
+Riga,Monaco,Qatar Airways,38
+Riga,Podgorica,LOT,85
+Riga,Amsterdam,Emirates,95
+Riga,Oslo,Wizz Air,35
+Riga,Warsaw,United Airlines,56
+Riga,Lisbon,LOT,06
+Riga,Bucharest,LOT,65
+Riga,Moscow,Qatar Airways,88
+Riga,San Marino,LOT,22
+Riga,Belgrade,LOT,81
+Riga,Bratislava,LOT,93
+Riga,Ljubljana,Qatar Airways,71
+Riga,Madrid,Emirates,67
+Riga,Stockholm,Qatar Airways,92
+Riga,Bern,Qatar Airways,14
+Riga,Ankara,British Airways,11
+Riga,Kyiv,Ryanair,59
+Riga,London,Emirates,15
+Vaduz,Andorra la Vella,Qatar Airways,98
+Vaduz,Tirana,LOT,46
+Vaduz,Vienna,United Airlines,18
+Vaduz,Minsk,Wizz Air,87
+Vaduz,Brussels,Wizz Air,07
+Vaduz,Sarajevo,LOT,32
+Vaduz,Sofia,Lufthansa,76
+Vaduz,Zagreb,Qatar Airways,24
+Vaduz,Nicosia,Air France,98
+Vaduz,Prague,Ryanair,86
+Vaduz,Copenhagen,Air France,43
+Vaduz,Tallinn,Qatar Airways,74
+Vaduz,Helsinki,British Airways,02
+Vaduz,Paris,United Airlines,05
+Vaduz,Tbilisi,United Airlines,40
+Vaduz,Berlin,Wizz Air,76
+Vaduz,Athens,LOT,87
+Vaduz,Budapest,Ryanair,14
+Vaduz,Reykjavik,Air France,34
+Vaduz,Dublin,United Airlines,67
+Vaduz,Rome,Qatar Airways,71
+Vaduz,Pristina,Lufthansa,50
+Vaduz,Riga,United Airlines,28
+Vaduz,Vilnius,LOT,36
+Vaduz,Luxembourg,Ryanair,50
+Vaduz,Skopje,Singapore Airlines,57
+Vaduz,Valletta,Air France,64
+Vaduz,Chisinau,United Airlines,01
+Vaduz,Monaco,Ryanair,44
+Vaduz,Podgorica,Qatar Airways,77
+Vaduz,Amsterdam,Singapore Airlines,82
+Vaduz,Oslo,United Airlines,06
+Vaduz,Warsaw,Wizz Air,17
+Vaduz,Lisbon,Ryanair,73
+Vaduz,Bucharest,LOT,87
+Vaduz,Moscow,LOT,55
+Vaduz,San Marino,British Airways,77
+Vaduz,Belgrade,Ryanair,74
+Vaduz,Bratislava,United Airlines,63
+Vaduz,Ljubljana,British Airways,03
+Vaduz,Madrid,Wizz Air,72
+Vaduz,Stockholm,Emirates,71
+Vaduz,Bern,Singapore Airlines,25
+Vaduz,Ankara,Singapore Airlines,22
+Vaduz,Kyiv,Air France,98
+Vaduz,London,United Airlines,81
+Vilnius,Andorra la Vella,Singapore Airlines,31
+Vilnius,Tirana,Qatar Airways,93
+Vilnius,Vienna,Ryanair,93
+Vilnius,Minsk,Ryanair,76
+Vilnius,Brussels,British Airways,06
+Vilnius,Sarajevo,Air France,74
+Vilnius,Sofia,United Airlines,04
+Vilnius,Zagreb,Lufthansa,10
+Vilnius,Nicosia,Wizz Air,37
+Vilnius,Prague,Wizz Air,99
+Vilnius,Copenhagen,Qatar Airways,68
+Vilnius,Tallinn,United Airlines,14
+Vilnius,Helsinki,British Airways,85
+Vilnius,Paris,Ryanair,29
+Vilnius,Tbilisi,Lufthansa,96
+Vilnius,Berlin,LOT,49
+Vilnius,Athens,Wizz Air,51
+Vilnius,Budapest,Wizz Air,22
+Vilnius,Reykjavik,Qatar Airways,47
+Vilnius,Dublin,Lufthansa,09
+Vilnius,Rome,Ryanair,54
+Vilnius,Pristina,United Airlines,54
+Vilnius,Riga,Ryanair,51
+Vilnius,Vaduz,LOT,69
+Vilnius,Luxembourg,British Airways,89
+Vilnius,Skopje,British Airways,07
+Vilnius,Valletta,British Airways,73
+Vilnius,Chisinau,British Airways,74
+Vilnius,Monaco,LOT,48
+Vilnius,Podgorica,Wizz Air,65
+Vilnius,Amsterdam,United Airlines,74
+Vilnius,Oslo,Qatar Airways,75
+Vilnius,Warsaw,Air France,34
+Vilnius,Lisbon,British Airways,54
+Vilnius,Bucharest,United Airlines,95
+Vilnius,Moscow,Wizz Air,74
+Vilnius,San Marino,Singapore Airlines,16
+Vilnius,Belgrade,Wizz Air,74
+Vilnius,Bratislava,United Airlines,93
+Vilnius,Ljubljana,Lufthansa,49
+Vilnius,Madrid,Wizz Air,45
+Vilnius,Stockholm,British Airways,79
+Vilnius,Bern,Wizz Air,86
+Vilnius,Ankara,Lufthansa,43
+Vilnius,Kyiv,Qatar Airways,76
+Vilnius,London,Lufthansa,45
+Luxembourg,Andorra la Vella,United Airlines,38
+Luxembourg,Tirana,LOT,72
+Luxembourg,Vienna,Emirates,50
+Luxembourg,Minsk,Singapore Airlines,36
+Luxembourg,Brussels,British Airways,39
+Luxembourg,Sarajevo,Singapore Airlines,87
+Luxembourg,Sofia,Qatar Airways,79
+Luxembourg,Zagreb,Ryanair,91
+Luxembourg,Nicosia,British Airways,66
+Luxembourg,Prague,Emirates,49
+Luxembourg,Copenhagen,British Airways,94
+Luxembourg,Tallinn,Lufthansa,59
+Luxembourg,Helsinki,Air France,20
+Luxembourg,Paris,British Airways,17
+Luxembourg,Tbilisi,British Airways,39
+Luxembourg,Berlin,LOT,68
+Luxembourg,Athens,British Airways,58
+Luxembourg,Budapest,LOT,78
+Luxembourg,Reykjavik,United Airlines,58
+Luxembourg,Dublin,Singapore Airlines,57
+Luxembourg,Rome,United Airlines,49
+Luxembourg,Pristina,Singapore Airlines,64
+Luxembourg,Riga,Air France,97
+Luxembourg,Vaduz,Wizz Air,11
+Luxembourg,Vilnius,Wizz Air,32
+Luxembourg,Skopje,Air France,74
+Luxembourg,Valletta,United Airlines,68
+Luxembourg,Chisinau,Lufthansa,88
+Luxembourg,Monaco,LOT,61
+Luxembourg,Podgorica,Emirates,38
+Luxembourg,Amsterdam,Ryanair,87
+Luxembourg,Oslo,United Airlines,80
+Luxembourg,Warsaw,British Airways,64
+Luxembourg,Lisbon,Lufthansa,40
+Luxembourg,Bucharest,Emirates,64
+Luxembourg,Moscow,Ryanair,17
+Luxembourg,San Marino,Wizz Air,82
+Luxembourg,Belgrade,Qatar Airways,10
+Luxembourg,Bratislava,Singapore Airlines,79
+Luxembourg,Ljubljana,Wizz Air,53
+Luxembourg,Madrid,Ryanair,34
+Luxembourg,Stockholm,Air France,25
+Luxembourg,Bern,Singapore Airlines,17
+Luxembourg,Ankara,Air France,25
+Luxembourg,Kyiv,Qatar Airways,62
+Luxembourg,London,Qatar Airways,91
+Skopje,Andorra la Vella,Emirates,42
+Skopje,Tirana,Emirates,46
+Skopje,Vienna,Singapore Airlines,40
+Skopje,Minsk,British Airways,43
+Skopje,Brussels,Qatar Airways,60
+Skopje,Sarajevo,United Airlines,42
+Skopje,Sofia,Singapore Airlines,59
+Skopje,Zagreb,Air France,86
+Skopje,Nicosia,Qatar Airways,55
+Skopje,Prague,LOT,36
+Skopje,Copenhagen,Singapore Airlines,03
+Skopje,Tallinn,Emirates,56
+Skopje,Helsinki,Singapore Airlines,48
+Skopje,Paris,Singapore Airlines,24
+Skopje,Tbilisi,Ryanair,01
+Skopje,Berlin,Emirates,96
+Skopje,Athens,LOT,19
+Skopje,Budapest,Lufthansa,04
+Skopje,Reykjavik,Qatar Airways,65
+Skopje,Dublin,Singapore Airlines,01
+Skopje,Rome,Air France,92
+Skopje,Pristina,Lufthansa,17
+Skopje,Riga,Wizz Air,43
+Skopje,Vaduz,LOT,84
+Skopje,Vilnius,Wizz Air,64
+Skopje,Luxembourg,Air France,82
+Skopje,Valletta,LOT,58
+Skopje,Chisinau,Qatar Airways,86
+Skopje,Monaco,Qatar Airways,38
+Skopje,Podgorica,Emirates,08
+Skopje,Amsterdam,United Airlines,17
+Skopje,Oslo,Wizz Air,72
+Skopje,Warsaw,Wizz Air,49
+Skopje,Lisbon,United Airlines,43
+Skopje,Bucharest,Singapore Airlines,08
+Skopje,Moscow,LOT,81
+Skopje,San Marino,Air France,63
+Skopje,Belgrade,United Airlines,29
+Skopje,Bratislava,LOT,04
+Skopje,Ljubljana,British Airways,91
+Skopje,Madrid,Wizz Air,77
+Skopje,Stockholm,Emirates,46
+Skopje,Bern,Ryanair,99
+Skopje,Ankara,LOT,58
+Skopje,Kyiv,Emirates,27
+Skopje,London,LOT,04
+Valletta,Andorra la Vella,Ryanair,26
+Valletta,Tirana,United Airlines,20
+Valletta,Vienna,Ryanair,37
+Valletta,Minsk,United Airlines,24
+Valletta,Brussels,Emirates,01
+Valletta,Sarajevo,Singapore Airlines,40
+Valletta,Sofia,United Airlines,22
+Valletta,Zagreb,Lufthansa,63
+Valletta,Nicosia,Singapore Airlines,14
+Valletta,Prague,British Airways,48
+Valletta,Copenhagen,Wizz Air,43
+Valletta,Tallinn,British Airways,13
+Valletta,Helsinki,Emirates,15
+Valletta,Paris,Air France,70
+Valletta,Tbilisi,Lufthansa,73
+Valletta,Berlin,United Airlines,46
+Valletta,Athens,Ryanair,66
+Valletta,Budapest,Singapore Airlines,34
+Valletta,Reykjavik,Lufthansa,44
+Valletta,Dublin,Air France,48
+Valletta,Rome,Singapore Airlines,53
+Valletta,Pristina,Ryanair,22
+Valletta,Riga,United Airlines,57
+Valletta,Vaduz,Wizz Air,40
+Valletta,Vilnius,United Airlines,41
+Valletta,Luxembourg,Wizz Air,78
+Valletta,Skopje,Emirates,51
+Valletta,Chisinau,Singapore Airlines,54
+Valletta,Monaco,LOT,88
+Valletta,Podgorica,Lufthansa,83
+Valletta,Amsterdam,Singapore Airlines,55
+Valletta,Oslo,Wizz Air,48
+Valletta,Warsaw,Lufthansa,69
+Valletta,Lisbon,Wizz Air,50
+Valletta,Bucharest,Qatar Airways,75
+Valletta,Moscow,Singapore Airlines,72
+Valletta,San Marino,Ryanair,59
+Valletta,Belgrade,Lufthansa,39
+Valletta,Bratislava,Lufthansa,42
+Valletta,Ljubljana,British Airways,10
+Valletta,Madrid,Singapore Airlines,02
+Valletta,Stockholm,Singapore Airlines,90
+Valletta,Bern,Air France,10
+Valletta,Ankara,Emirates,22
+Valletta,Kyiv,United Airlines,50
+Valletta,London,United Airlines,46
+Chisinau,Andorra la Vella,Air France,23
+Chisinau,Tirana,LOT,31
+Chisinau,Vienna,LOT,68
+Chisinau,Minsk,Air France,41
+Chisinau,Brussels,Emirates,55
+Chisinau,Sarajevo,Emirates,37
+Chisinau,Sofia,Emirates,39
+Chisinau,Zagreb,Qatar Airways,48
+Chisinau,Nicosia,United Airlines,61
+Chisinau,Prague,United Airlines,07
+Chisinau,Copenhagen,Singapore Airlines,44
+Chisinau,Tallinn,Wizz Air,74
+Chisinau,Helsinki,Air France,95
+Chisinau,Paris,LOT,67
+Chisinau,Tbilisi,Lufthansa,86
+Chisinau,Berlin,Qatar Airways,27
+Chisinau,Athens,LOT,11
+Chisinau,Budapest,Lufthansa,72
+Chisinau,Reykjavik,LOT,43
+Chisinau,Dublin,LOT,86
+Chisinau,Rome,Emirates,24
+Chisinau,Pristina,Lufthansa,09
+Chisinau,Riga,Lufthansa,53
+Chisinau,Vaduz,United Airlines,59
+Chisinau,Vilnius,Lufthansa,89
+Chisinau,Luxembourg,LOT,88
+Chisinau,Skopje,Qatar Airways,89
+Chisinau,Valletta,LOT,02
+Chisinau,Monaco,Emirates,42
+Chisinau,Podgorica,United Airlines,14
+Chisinau,Amsterdam,Lufthansa,86
+Chisinau,Oslo,Ryanair,28
+Chisinau,Warsaw,Air France,29
+Chisinau,Lisbon,Emirates,67
+Chisinau,Bucharest,United Airlines,20
+Chisinau,Moscow,Qatar Airways,30
+Chisinau,San Marino,Ryanair,02
+Chisinau,Belgrade,Singapore Airlines,23
+Chisinau,Bratislava,Ryanair,18
+Chisinau,Ljubljana,Emirates,74
+Chisinau,Madrid,Air France,19
+Chisinau,Stockholm,Lufthansa,02
+Chisinau,Bern,Singapore Airlines,16
+Chisinau,Ankara,Lufthansa,18
+Chisinau,Kyiv,Emirates,67
+Chisinau,London,Ryanair,93
+Monaco,Andorra la Vella,British Airways,25
+Monaco,Tirana,British Airways,24
+Monaco,Vienna,Lufthansa,03
+Monaco,Minsk,Emirates,10
+Monaco,Brussels,Emirates,16
+Monaco,Sarajevo,United Airlines,40
+Monaco,Sofia,LOT,72
+Monaco,Zagreb,Qatar Airways,76
+Monaco,Nicosia,LOT,90
+Monaco,Prague,Qatar Airways,24
+Monaco,Copenhagen,Wizz Air,15
+Monaco,Tallinn,United Airlines,46
+Monaco,Helsinki,Singapore Airlines,70
+Monaco,Paris,Singapore Airlines,96
+Monaco,Tbilisi,Emirates,08
+Monaco,Berlin,LOT,39
+Monaco,Athens,Emirates,51
+Monaco,Budapest,Wizz Air,65
+Monaco,Reykjavik,United Airlines,03
+Monaco,Dublin,Air France,57
+Monaco,Rome,Singapore Airlines,19
+Monaco,Pristina,Air France,87
+Monaco,Riga,Emirates,81
+Monaco,Vaduz,United Airlines,29
+Monaco,Vilnius,Air France,36
+Monaco,Luxembourg,Ryanair,70
+Monaco,Skopje,Qatar Airways,60
+Monaco,Valletta,Singapore Airlines,36
+Monaco,Chisinau,United Airlines,35
+Monaco,Podgorica,Singapore Airlines,20
+Monaco,Amsterdam,British Airways,08
+Monaco,Oslo,British Airways,31
+Monaco,Warsaw,Singapore Airlines,78
+Monaco,Lisbon,Wizz Air,78
+Monaco,Bucharest,Lufthansa,73
+Monaco,Moscow,Emirates,49
+Monaco,San Marino,Air France,34
+Monaco,Belgrade,Ryanair,67
+Monaco,Bratislava,Air France,22
+Monaco,Ljubljana,Ryanair,48
+Monaco,Madrid,Wizz Air,04
+Monaco,Stockholm,Ryanair,79
+Monaco,Bern,Lufthansa,01
+Monaco,Ankara,Wizz Air,91
+Monaco,Kyiv,Qatar Airways,06
+Monaco,London,Singapore Airlines,53
+Podgorica,Andorra la Vella,Air France,04
+Podgorica,Tirana,United Airlines,25
+Podgorica,Vienna,Singapore Airlines,78
+Podgorica,Minsk,Wizz Air,91
+Podgorica,Brussels,Emirates,28
+Podgorica,Sarajevo,Ryanair,29
+Podgorica,Sofia,Ryanair,09
+Podgorica,Zagreb,United Airlines,14
+Podgorica,Nicosia,LOT,64
+Podgorica,Prague,LOT,94
+Podgorica,Copenhagen,Singapore Airlines,90
+Podgorica,Tallinn,United Airlines,92
+Podgorica,Helsinki,United Airlines,13
+Podgorica,Paris,Singapore Airlines,57
+Podgorica,Tbilisi,Lufthansa,63
+Podgorica,Berlin,Emirates,63
+Podgorica,Athens,Air France,91
+Podgorica,Budapest,British Airways,46
+Podgorica,Reykjavik,Wizz Air,74
+Podgorica,Dublin,British Airways,23
+Podgorica,Rome,LOT,72
+Podgorica,Pristina,Qatar Airways,28
+Podgorica,Riga,Air France,25
+Podgorica,Vaduz,Emirates,88
+Podgorica,Vilnius,United Airlines,31
+Podgorica,Luxembourg,Wizz Air,09
+Podgorica,Skopje,Ryanair,24
+Podgorica,Valletta,United Airlines,81
+Podgorica,Chisinau,Singapore Airlines,04
+Podgorica,Monaco,Ryanair,75
+Podgorica,Amsterdam,Ryanair,04
+Podgorica,Oslo,Lufthansa,31
+Podgorica,Warsaw,Emirates,40
+Podgorica,Lisbon,Singapore Airlines,60
+Podgorica,Bucharest,Emirates,57
+Podgorica,Moscow,Lufthansa,36
+Podgorica,San Marino,United Airlines,28
+Podgorica,Belgrade,Emirates,97
+Podgorica,Bratislava,Singapore Airlines,44
+Podgorica,Ljubljana,Air France,26
+Podgorica,Madrid,LOT,76
+Podgorica,Stockholm,United Airlines,29
+Podgorica,Bern,Ryanair,43
+Podgorica,Ankara,Singapore Airlines,02
+Podgorica,Kyiv,Lufthansa,67
+Podgorica,London,Emirates,32
+Amsterdam,Andorra la Vella,Air France,95
+Amsterdam,Tirana,Qatar Airways,38
+Amsterdam,Vienna,British Airways,44
+Amsterdam,Minsk,Air France,44
+Amsterdam,Brussels,LOT,50
+Amsterdam,Sarajevo,LOT,84
+Amsterdam,Sofia,Qatar Airways,39
+Amsterdam,Zagreb,Lufthansa,68
+Amsterdam,Nicosia,Singapore Airlines,45
+Amsterdam,Prague,LOT,78
+Amsterdam,Copenhagen,Emirates,15
+Amsterdam,Tallinn,Emirates,54
+Amsterdam,Helsinki,Emirates,41
+Amsterdam,Paris,Qatar Airways,28
+Amsterdam,Tbilisi,British Airways,54
+Amsterdam,Berlin,United Airlines,45
+Amsterdam,Athens,Air France,34
+Amsterdam,Budapest,Emirates,16
+Amsterdam,Reykjavik,Emirates,63
+Amsterdam,Dublin,Ryanair,28
+Amsterdam,Rome,Ryanair,98
+Amsterdam,Pristina,British Airways,27
+Amsterdam,Riga,British Airways,33
+Amsterdam,Vaduz,Emirates,28
+Amsterdam,Vilnius,LOT,65
+Amsterdam,Luxembourg,Wizz Air,38
+Amsterdam,Skopje,LOT,50
+Amsterdam,Valletta,Air France,42
+Amsterdam,Chisinau,LOT,88
+Amsterdam,Monaco,Emirates,27
+Amsterdam,Podgorica,Qatar Airways,18
+Amsterdam,Oslo,Ryanair,72
+Amsterdam,Warsaw,Lufthansa,79
+Amsterdam,Lisbon,United Airlines,94
+Amsterdam,Bucharest,Lufthansa,93
+Amsterdam,Moscow,LOT,59
+Amsterdam,San Marino,United Airlines,82
+Amsterdam,Belgrade,Air France,47
+Amsterdam,Bratislava,Emirates,02
+Amsterdam,Ljubljana,Ryanair,64
+Amsterdam,Madrid,Lufthansa,98
+Amsterdam,Stockholm,Singapore Airlines,98
+Amsterdam,Bern,LOT,62
+Amsterdam,Ankara,Singapore Airlines,60
+Amsterdam,Kyiv,Singapore Airlines,67
+Amsterdam,London,LOT,86
+Oslo,Andorra la Vella,Singapore Airlines,42
+Oslo,Tirana,Qatar Airways,61
+Oslo,Vienna,Qatar Airways,05
+Oslo,Minsk,Lufthansa,63
+Oslo,Brussels,British Airways,49
+Oslo,Sarajevo,Air France,55
+Oslo,Sofia,British Airways,16
+Oslo,Zagreb,British Airways,22
+Oslo,Nicosia,Lufthansa,97
+Oslo,Prague,Lufthansa,84
+Oslo,Copenhagen,Ryanair,75
+Oslo,Tallinn,United Airlines,55
+Oslo,Helsinki,Singapore Airlines,45
+Oslo,Paris,British Airways,89
+Oslo,Tbilisi,British Airways,78
+Oslo,Berlin,LOT,16
+Oslo,Athens,United Airlines,01
+Oslo,Budapest,Singapore Airlines,47
+Oslo,Reykjavik,Air France,53
+Oslo,Dublin,Air France,25
+Oslo,Rome,Qatar Airways,41
+Oslo,Pristina,Singapore Airlines,46
+Oslo,Riga,United Airlines,94
+Oslo,Vaduz,Wizz Air,62
+Oslo,Vilnius,Ryanair,80
+Oslo,Luxembourg,Air France,28
+Oslo,Skopje,Singapore Airlines,87
+Oslo,Valletta,Qatar Airways,67
+Oslo,Chisinau,Wizz Air,62
+Oslo,Monaco,Air France,46
+Oslo,Podgorica,Air France,24
+Oslo,Amsterdam,United Airlines,76
+Oslo,Warsaw,United Airlines,92
+Oslo,Lisbon,Emirates,15
+Oslo,Bucharest,Emirates,02
+Oslo,Moscow,Qatar Airways,45
+Oslo,San Marino,Ryanair,36
+Oslo,Belgrade,Lufthansa,77
+Oslo,Bratislava,United Airlines,71
+Oslo,Ljubljana,Qatar Airways,82
+Oslo,Madrid,Ryanair,04
+Oslo,Stockholm,Ryanair,81
+Oslo,Bern,Air France,85
+Oslo,Ankara,Emirates,49
+Oslo,Kyiv,British Airways,95
+Oslo,London,Wizz Air,40
+Warsaw,Andorra la Vella,Ryanair,14
+Warsaw,Tirana,Wizz Air,55
+Warsaw,Vienna,United Airlines,01
+Warsaw,Minsk,United Airlines,31
+Warsaw,Brussels,United Airlines,74
+Warsaw,Sarajevo,Emirates,86
+Warsaw,Sofia,Emirates,89
+Warsaw,Zagreb,Ryanair,47
+Warsaw,Nicosia,Qatar Airways,96
+Warsaw,Prague,Air France,47
+Warsaw,Copenhagen,Wizz Air,65
+Warsaw,Tallinn,Emirates,14
+Warsaw,Helsinki,Ryanair,36
+Warsaw,Paris,British Airways,57
+Warsaw,Tbilisi,Qatar Airways,14
+Warsaw,Berlin,Singapore Airlines,01
+Warsaw,Athens,Ryanair,28
+Warsaw,Budapest,Wizz Air,62
+Warsaw,Reykjavik,Lufthansa,49
+Warsaw,Dublin,Wizz Air,92
+Warsaw,Rome,United Airlines,68
+Warsaw,Pristina,Lufthansa,14
+Warsaw,Riga,Emirates,97
+Warsaw,Vaduz,United Airlines,66
+Warsaw,Vilnius,LOT,55
+Warsaw,Luxembourg,LOT,25
+Warsaw,Skopje,Lufthansa,87
+Warsaw,Valletta,British Airways,04
+Warsaw,Chisinau,Ryanair,40
+Warsaw,Monaco,LOT,67
+Warsaw,Podgorica,Air France,18
+Warsaw,Amsterdam,Lufthansa,55
+Warsaw,Oslo,United Airlines,57
+Warsaw,Lisbon,Lufthansa,30
+Warsaw,Bucharest,Emirates,16
+Warsaw,Moscow,British Airways,45
+Warsaw,San Marino,Qatar Airways,67
+Warsaw,Belgrade,Singapore Airlines,83
+Warsaw,Bratislava,Air France,25
+Warsaw,Ljubljana,Wizz Air,31
+Warsaw,Madrid,Lufthansa,67
+Warsaw,Stockholm,British Airways,91
+Warsaw,Bern,United Airlines,59
+Warsaw,Ankara,Lufthansa,06
+Warsaw,Kyiv,United Airlines,88
+Warsaw,London,Singapore Airlines,50
+Lisbon,Andorra la Vella,Singapore Airlines,28
+Lisbon,Tirana,British Airways,39
+Lisbon,Vienna,British Airways,26
+Lisbon,Minsk,Qatar Airways,88
+Lisbon,Brussels,Wizz Air,59
+Lisbon,Sarajevo,Qatar Airways,47
+Lisbon,Sofia,Singapore Airlines,33
+Lisbon,Zagreb,Ryanair,44
+Lisbon,Nicosia,LOT,36
+Lisbon,Prague,Air France,82
+Lisbon,Copenhagen,Singapore Airlines,53
+Lisbon,Tallinn,Ryanair,88
+Lisbon,Helsinki,Singapore Airlines,05
+Lisbon,Paris,British Airways,83
+Lisbon,Tbilisi,Wizz Air,01
+Lisbon,Berlin,British Airways,78
+Lisbon,Athens,Emirates,97
+Lisbon,Budapest,Lufthansa,25
+Lisbon,Reykjavik,LOT,56
+Lisbon,Dublin,Qatar Airways,12
+Lisbon,Rome,Ryanair,89
+Lisbon,Pristina,Singapore Airlines,28
+Lisbon,Riga,British Airways,84
+Lisbon,Vaduz,Air France,59
+Lisbon,Vilnius,British Airways,52
+Lisbon,Luxembourg,United Airlines,42
+Lisbon,Skopje,Qatar Airways,91
+Lisbon,Valletta,Emirates,37
+Lisbon,Chisinau,Lufthansa,95
+Lisbon,Monaco,Singapore Airlines,20
+Lisbon,Podgorica,Singapore Airlines,83
+Lisbon,Amsterdam,British Airways,08
+Lisbon,Oslo,Emirates,07
+Lisbon,Warsaw,Lufthansa,70
+Lisbon,Bucharest,Qatar Airways,62
+Lisbon,Moscow,Ryanair,06
+Lisbon,San Marino,Singapore Airlines,68
+Lisbon,Belgrade,British Airways,89
+Lisbon,Bratislava,Wizz Air,94
+Lisbon,Ljubljana,British Airways,65
+Lisbon,Madrid,Ryanair,68
+Lisbon,Stockholm,Lufthansa,16
+Lisbon,Bern,Singapore Airlines,64
+Lisbon,Ankara,Singapore Airlines,62
+Lisbon,Kyiv,British Airways,94
+Lisbon,London,United Airlines,10
+Bucharest,Andorra la Vella,Emirates,65
+Bucharest,Tirana,British Airways,10
+Bucharest,Vienna,Air France,02
+Bucharest,Minsk,Wizz Air,05
+Bucharest,Brussels,United Airlines,68
+Bucharest,Sarajevo,Qatar Airways,67
+Bucharest,Sofia,Emirates,08
+Bucharest,Zagreb,Ryanair,52
+Bucharest,Nicosia,Singapore Airlines,37
+Bucharest,Prague,Wizz Air,53
+Bucharest,Copenhagen,Emirates,39
+Bucharest,Tallinn,Air France,79
+Bucharest,Helsinki,Air France,30
+Bucharest,Paris,Wizz Air,10
+Bucharest,Tbilisi,Wizz Air,25
+Bucharest,Berlin,Wizz Air,53
+Bucharest,Athens,Lufthansa,40
+Bucharest,Budapest,Wizz Air,52
+Bucharest,Reykjavik,LOT,51
+Bucharest,Dublin,Ryanair,19
+Bucharest,Rome,Singapore Airlines,31
+Bucharest,Pristina,Lufthansa,33
+Bucharest,Riga,Emirates,35
+Bucharest,Vaduz,LOT,83
+Bucharest,Vilnius,Air France,65
+Bucharest,Luxembourg,Lufthansa,81
+Bucharest,Skopje,Ryanair,70
+Bucharest,Valletta,United Airlines,16
+Bucharest,Chisinau,British Airways,27
+Bucharest,Monaco,United Airlines,80
+Bucharest,Podgorica,Ryanair,70
+Bucharest,Amsterdam,Emirates,85
+Bucharest,Oslo,Lufthansa,27
+Bucharest,Warsaw,Qatar Airways,30
+Bucharest,Lisbon,Lufthansa,99
+Bucharest,Moscow,Qatar Airways,53
+Bucharest,San Marino,United Airlines,53
+Bucharest,Belgrade,British Airways,22
+Bucharest,Bratislava,Lufthansa,20
+Bucharest,Ljubljana,Air France,57
+Bucharest,Madrid,United Airlines,63
+Bucharest,Stockholm,Qatar Airways,85
+Bucharest,Bern,Singapore Airlines,76
+Bucharest,Ankara,Qatar Airways,97
+Bucharest,Kyiv,Lufthansa,51
+Bucharest,London,LOT,67
+Moscow,Andorra la Vella,Emirates,48
+Moscow,Tirana,Wizz Air,15
+Moscow,Vienna,United Airlines,22
+Moscow,Minsk,Ryanair,95
+Moscow,Brussels,Ryanair,72
+Moscow,Sarajevo,Wizz Air,89
+Moscow,Sofia,Singapore Airlines,42
+Moscow,Zagreb,Ryanair,33
+Moscow,Nicosia,United Airlines,15
+Moscow,Prague,Qatar Airways,91
+Moscow,Copenhagen,Lufthansa,67
+Moscow,Tallinn,Ryanair,56
+Moscow,Helsinki,United Airlines,29
+Moscow,Paris,Ryanair,83
+Moscow,Tbilisi,United Airlines,28
+Moscow,Berlin,LOT,87
+Moscow,Athens,Emirates,28
+Moscow,Budapest,Qatar Airways,05
+Moscow,Reykjavik,United Airlines,48
+Moscow,Dublin,Emirates,90
+Moscow,Rome,Wizz Air,85
+Moscow,Pristina,Ryanair,57
+Moscow,Riga,Emirates,29
+Moscow,Vaduz,LOT,30
+Moscow,Vilnius,Air France,89
+Moscow,Luxembourg,Ryanair,72
+Moscow,Skopje,LOT,54
+Moscow,Valletta,LOT,55
+Moscow,Chisinau,Wizz Air,16
+Moscow,Monaco,Wizz Air,28
+Moscow,Podgorica,Air France,06
+Moscow,Amsterdam,Wizz Air,58
+Moscow,Oslo,Air France,86
+Moscow,Warsaw,Wizz Air,25
+Moscow,Lisbon,Wizz Air,71
+Moscow,Bucharest,Ryanair,63
+Moscow,San Marino,LOT,39
+Moscow,Belgrade,Air France,42
+Moscow,Bratislava,British Airways,39
+Moscow,Ljubljana,Singapore Airlines,98
+Moscow,Madrid,Ryanair,91
+Moscow,Stockholm,Ryanair,94
+Moscow,Bern,Lufthansa,10
+Moscow,Ankara,Emirates,38
+Moscow,Kyiv,Ryanair,17
+Moscow,London,Lufthansa,26
+San Marino,Andorra la Vella,LOT,99
+San Marino,Tirana,Ryanair,43
+San Marino,Vienna,Qatar Airways,11
+San Marino,Minsk,Air France,64
+San Marino,Brussels,Ryanair,11
+San Marino,Sarajevo,Singapore Airlines,33
+San Marino,Sofia,Air France,25
+San Marino,Zagreb,Lufthansa,63
+San Marino,Nicosia,Lufthansa,04
+San Marino,Prague,Qatar Airways,17
+San Marino,Copenhagen,British Airways,02
+San Marino,Tallinn,LOT,78
+San Marino,Helsinki,Emirates,71
+San Marino,Paris,Qatar Airways,21
+San Marino,Tbilisi,Qatar Airways,10
+San Marino,Berlin,Wizz Air,73
+San Marino,Athens,Lufthansa,45
+San Marino,Budapest,Air France,95
+San Marino,Reykjavik,United Airlines,92
+San Marino,Dublin,Qatar Airways,60
+San Marino,Rome,Lufthansa,69
+San Marino,Pristina,Ryanair,89
+San Marino,Riga,LOT,54
+San Marino,Vaduz,Lufthansa,65
+San Marino,Vilnius,Wizz Air,43
+San Marino,Luxembourg,United Airlines,72
+San Marino,Skopje,British Airways,56
+San Marino,Valletta,Emirates,98
+San Marino,Chisinau,United Airlines,53
+San Marino,Monaco,Lufthansa,76
+San Marino,Podgorica,Air France,12
+San Marino,Amsterdam,Qatar Airways,76
+San Marino,Oslo,Qatar Airways,05
+San Marino,Warsaw,United Airlines,05
+San Marino,Lisbon,Singapore Airlines,12
+San Marino,Bucharest,LOT,40
+San Marino,Moscow,United Airlines,22
+San Marino,Belgrade,LOT,96
+San Marino,Bratislava,LOT,82
+San Marino,Ljubljana,LOT,11
+San Marino,Madrid,Wizz Air,50
+San Marino,Stockholm,Ryanair,14
+San Marino,Bern,Singapore Airlines,27
+San Marino,Ankara,Ryanair,23
+San Marino,Kyiv,Air France,47
+San Marino,London,Ryanair,66
+Belgrade,Andorra la Vella,LOT,87
+Belgrade,Tirana,Singapore Airlines,21
+Belgrade,Vienna,Lufthansa,92
+Belgrade,Minsk,Emirates,62
+Belgrade,Brussels,Wizz Air,70
+Belgrade,Sarajevo,Ryanair,88
+Belgrade,Sofia,United Airlines,24
+Belgrade,Zagreb,Air France,39
+Belgrade,Nicosia,United Airlines,59
+Belgrade,Prague,Emirates,88
+Belgrade,Copenhagen,Emirates,54
+Belgrade,Tallinn,Emirates,91
+Belgrade,Helsinki,Wizz Air,96
+Belgrade,Paris,Air France,44
+Belgrade,Tbilisi,Emirates,04
+Belgrade,Berlin,Wizz Air,72
+Belgrade,Athens,Wizz Air,60
+Belgrade,Budapest,British Airways,42
+Belgrade,Reykjavik,Lufthansa,25
+Belgrade,Dublin,Ryanair,72
+Belgrade,Rome,Singapore Airlines,67
+Belgrade,Pristina,Ryanair,77
+Belgrade,Riga,Ryanair,44
+Belgrade,Vaduz,LOT,84
+Belgrade,Vilnius,LOT,46
+Belgrade,Luxembourg,Air France,65
+Belgrade,Skopje,Qatar Airways,99
+Belgrade,Valletta,Qatar Airways,81
+Belgrade,Chisinau,LOT,70
+Belgrade,Monaco,Emirates,38
+Belgrade,Podgorica,LOT,56
+Belgrade,Amsterdam,Ryanair,11
+Belgrade,Oslo,LOT,43
+Belgrade,Warsaw,Qatar Airways,59
+Belgrade,Lisbon,British Airways,08
+Belgrade,Bucharest,Air France,21
+Belgrade,Moscow,Lufthansa,17
+Belgrade,San Marino,LOT,35
+Belgrade,Bratislava,Qatar Airways,22
+Belgrade,Ljubljana,Air France,18
+Belgrade,Madrid,LOT,26
+Belgrade,Stockholm,Emirates,10
+Belgrade,Bern,Air France,30
+Belgrade,Ankara,United Airlines,70
+Belgrade,Kyiv,Air France,69
+Belgrade,London,Wizz Air,97
+Bratislava,Andorra la Vella,British Airways,22
+Bratislava,Tirana,LOT,41
+Bratislava,Vienna,British Airways,76
+Bratislava,Minsk,Lufthansa,24
+Bratislava,Brussels,Lufthansa,99
+Bratislava,Sarajevo,United Airlines,71
+Bratislava,Sofia,Wizz Air,70
+Bratislava,Zagreb,LOT,04
+Bratislava,Nicosia,Air France,10
+Bratislava,Prague,Ryanair,26
+Bratislava,Copenhagen,Air France,28
+Bratislava,Tallinn,United Airlines,18
+Bratislava,Helsinki,LOT,01
+Bratislava,Paris,United Airlines,85
+Bratislava,Tbilisi,Ryanair,14
+Bratislava,Berlin,Air France,74
+Bratislava,Athens,Air France,06
+Bratislava,Budapest,British Airways,14
+Bratislava,Reykjavik,Ryanair,08
+Bratislava,Dublin,Air France,51
+Bratislava,Rome,Singapore Airlines,18
+Bratislava,Pristina,Singapore Airlines,10
+Bratislava,Riga,Ryanair,88
+Bratislava,Vaduz,Lufthansa,72
+Bratislava,Vilnius,Singapore Airlines,12
+Bratislava,Luxembourg,LOT,41
+Bratislava,Skopje,Emirates,40
+Bratislava,Valletta,LOT,12
+Bratislava,Chisinau,Lufthansa,67
+Bratislava,Monaco,Wizz Air,07
+Bratislava,Podgorica,Wizz Air,38
+Bratislava,Amsterdam,Wizz Air,68
+Bratislava,Oslo,LOT,05
+Bratislava,Warsaw,Wizz Air,83
+Bratislava,Lisbon,Singapore Airlines,07
+Bratislava,Bucharest,Singapore Airlines,34
+Bratislava,Moscow,Singapore Airlines,56
+Bratislava,San Marino,Ryanair,34
+Bratislava,Belgrade,British Airways,29
+Bratislava,Ljubljana,British Airways,06
+Bratislava,Madrid,Singapore Airlines,70
+Bratislava,Stockholm,Emirates,96
+Bratislava,Bern,Air France,11
+Bratislava,Ankara,United Airlines,13
+Bratislava,Kyiv,Emirates,79
+Bratislava,London,Emirates,24
+Ljubljana,Andorra la Vella,Qatar Airways,73
+Ljubljana,Tirana,Ryanair,45
+Ljubljana,Vienna,Air France,63
+Ljubljana,Minsk,Ryanair,50
+Ljubljana,Brussels,Ryanair,16
+Ljubljana,Sarajevo,British Airways,66
+Ljubljana,Sofia,Emirates,72
+Ljubljana,Zagreb,United Airlines,63
+Ljubljana,Nicosia,Qatar Airways,73
+Ljubljana,Prague,Qatar Airways,57
+Ljubljana,Copenhagen,British Airways,47
+Ljubljana,Tallinn,Emirates,68
+Ljubljana,Helsinki,United Airlines,78
+Ljubljana,Paris,British Airways,20
+Ljubljana,Tbilisi,Lufthansa,26
+Ljubljana,Berlin,LOT,22
+Ljubljana,Athens,Air France,61
+Ljubljana,Budapest,LOT,26
+Ljubljana,Reykjavik,Lufthansa,66
+Ljubljana,Dublin,United Airlines,47
+Ljubljana,Rome,Ryanair,15
+Ljubljana,Pristina,Emirates,50
+Ljubljana,Riga,Singapore Airlines,71
+Ljubljana,Vaduz,Qatar Airways,84
+Ljubljana,Vilnius,Lufthansa,03
+Ljubljana,Luxembourg,United Airlines,81
+Ljubljana,Skopje,Wizz Air,91
+Ljubljana,Valletta,Lufthansa,60
+Ljubljana,Chisinau,British Airways,24
+Ljubljana,Monaco,Air France,03
+Ljubljana,Podgorica,Qatar Airways,41
+Ljubljana,Amsterdam,Emirates,47
+Ljubljana,Oslo,Air France,93
+Ljubljana,Warsaw,Lufthansa,98
+Ljubljana,Lisbon,Wizz Air,11
+Ljubljana,Bucharest,Ryanair,66
+Ljubljana,Moscow,Lufthansa,77
+Ljubljana,San Marino,Air France,95
+Ljubljana,Belgrade,Lufthansa,61
+Ljubljana,Bratislava,Air France,09
+Ljubljana,Madrid,Ryanair,92
+Ljubljana,Stockholm,Emirates,60
+Ljubljana,Bern,Wizz Air,69
+Ljubljana,Ankara,Singapore Airlines,29
+Ljubljana,Kyiv,Qatar Airways,20
+Ljubljana,London,LOT,05
+Madrid,Andorra la Vella,LOT,60
+Madrid,Tirana,Qatar Airways,92
+Madrid,Vienna,Emirates,99
+Madrid,Minsk,Wizz Air,43
+Madrid,Brussels,Lufthansa,68
+Madrid,Sarajevo,United Airlines,57
+Madrid,Sofia,United Airlines,63
+Madrid,Zagreb,Singapore Airlines,26
+Madrid,Nicosia,LOT,12
+Madrid,Prague,Air France,65
+Madrid,Copenhagen,Emirates,58
+Madrid,Tallinn,Lufthansa,60
+Madrid,Helsinki,Ryanair,93
+Madrid,Paris,Emirates,60
+Madrid,Tbilisi,Wizz Air,56
+Madrid,Berlin,British Airways,47
+Madrid,Athens,United Airlines,38
+Madrid,Budapest,United Airlines,87
+Madrid,Reykjavik,LOT,33
+Madrid,Dublin,Air France,87
+Madrid,Rome,Ryanair,87
+Madrid,Pristina,Qatar Airways,71
+Madrid,Riga,Wizz Air,50
+Madrid,Vaduz,Singapore Airlines,29
+Madrid,Vilnius,United Airlines,43
+Madrid,Luxembourg,Qatar Airways,19
+Madrid,Skopje,LOT,89
+Madrid,Valletta,Qatar Airways,55
+Madrid,Chisinau,Ryanair,06
+Madrid,Monaco,British Airways,87
+Madrid,Podgorica,LOT,63
+Madrid,Amsterdam,Lufthansa,50
+Madrid,Oslo,Emirates,24
+Madrid,Warsaw,Emirates,74
+Madrid,Lisbon,Qatar Airways,87
+Madrid,Bucharest,United Airlines,14
+Madrid,Moscow,Wizz Air,99
+Madrid,San Marino,Air France,06
+Madrid,Belgrade,British Airways,82
+Madrid,Bratislava,Ryanair,34
+Madrid,Ljubljana,Singapore Airlines,70
+Madrid,Stockholm,Air France,27
+Madrid,Bern,Singapore Airlines,29
+Madrid,Ankara,LOT,51
+Madrid,Kyiv,Wizz Air,44
+Madrid,London,Lufthansa,25
+Stockholm,Andorra la Vella,United Airlines,23
+Stockholm,Tirana,Lufthansa,90
+Stockholm,Vienna,Singapore Airlines,70
+Stockholm,Minsk,Ryanair,96
+Stockholm,Brussels,Lufthansa,79
+Stockholm,Sarajevo,Air France,68
+Stockholm,Sofia,United Airlines,10
+Stockholm,Zagreb,Qatar Airways,23
+Stockholm,Nicosia,Qatar Airways,62
+Stockholm,Prague,Ryanair,96
+Stockholm,Copenhagen,Singapore Airlines,38
+Stockholm,Tallinn,Qatar Airways,95
+Stockholm,Helsinki,Emirates,04
+Stockholm,Paris,Wizz Air,48
+Stockholm,Tbilisi,Ryanair,76
+Stockholm,Berlin,Ryanair,01
+Stockholm,Athens,Emirates,29
+Stockholm,Budapest,Emirates,84
+Stockholm,Reykjavik,Ryanair,61
+Stockholm,Dublin,Ryanair,14
+Stockholm,Rome,Singapore Airlines,09
+Stockholm,Pristina,Wizz Air,10
+Stockholm,Riga,Qatar Airways,15
+Stockholm,Vaduz,Lufthansa,76
+Stockholm,Vilnius,LOT,75
+Stockholm,Luxembourg,LOT,15
+Stockholm,Skopje,Air France,01
+Stockholm,Valletta,Air France,42
+Stockholm,Chisinau,British Airways,68
+Stockholm,Monaco,Qatar Airways,15
+Stockholm,Podgorica,Air France,97
+Stockholm,Amsterdam,Qatar Airways,15
+Stockholm,Oslo,United Airlines,32
+Stockholm,Warsaw,British Airways,70
+Stockholm,Lisbon,LOT,48
+Stockholm,Bucharest,Air France,50
+Stockholm,Moscow,Wizz Air,23
+Stockholm,San Marino,Qatar Airways,02
+Stockholm,Belgrade,United Airlines,77
+Stockholm,Bratislava,LOT,65
+Stockholm,Ljubljana,British Airways,04
+Stockholm,Madrid,Lufthansa,90
+Stockholm,Bern,Singapore Airlines,56
+Stockholm,Ankara,Ryanair,12
+Stockholm,Kyiv,British Airways,13
+Stockholm,London,Singapore Airlines,58
+Bern,Andorra la Vella,LOT,02
+Bern,Tirana,Emirates,71
+Bern,Vienna,Ryanair,88
+Bern,Minsk,Ryanair,27
+Bern,Brussels,Ryanair,63
+Bern,Sarajevo,Lufthansa,75
+Bern,Sofia,Ryanair,67
+Bern,Zagreb,Air France,84
+Bern,Nicosia,LOT,38
+Bern,Prague,Qatar Airways,28
+Bern,Copenhagen,Wizz Air,16
+Bern,Tallinn,Ryanair,54
+Bern,Helsinki,LOT,76
+Bern,Paris,Ryanair,64
+Bern,Tbilisi,Singapore Airlines,84
+Bern,Berlin,British Airways,91
+Bern,Athens,LOT,44
+Bern,Budapest,Emirates,51
+Bern,Reykjavik,United Airlines,67
+Bern,Dublin,Wizz Air,97
+Bern,Rome,Emirates,81
+Bern,Pristina,Emirates,93
+Bern,Riga,Singapore Airlines,78
+Bern,Vaduz,British Airways,87
+Bern,Vilnius,Wizz Air,16
+Bern,Luxembourg,Ryanair,79
+Bern,Skopje,Qatar Airways,04
+Bern,Valletta,United Airlines,67
+Bern,Chisinau,Lufthansa,92
+Bern,Monaco,Singapore Airlines,29
+Bern,Podgorica,Emirates,32
+Bern,Amsterdam,British Airways,71
+Bern,Oslo,United Airlines,68
+Bern,Warsaw,Wizz Air,62
+Bern,Lisbon,Singapore Airlines,13
+Bern,Bucharest,British Airways,64
+Bern,Moscow,British Airways,01
+Bern,San Marino,Air France,46
+Bern,Belgrade,LOT,61
+Bern,Bratislava,Air France,74
+Bern,Ljubljana,Ryanair,28
+Bern,Madrid,Emirates,27
+Bern,Stockholm,Singapore Airlines,68
+Bern,Ankara,LOT,16
+Bern,Kyiv,LOT,96
+Bern,London,Singapore Airlines,11
+Ankara,Andorra la Vella,British Airways,82
+Ankara,Tirana,United Airlines,61
+Ankara,Vienna,Air France,83
+Ankara,Minsk,Wizz Air,70
+Ankara,Brussels,United Airlines,49
+Ankara,Sarajevo,Singapore Airlines,07
+Ankara,Sofia,Emirates,23
+Ankara,Zagreb,Qatar Airways,71
+Ankara,Nicosia,British Airways,52
+Ankara,Prague,United Airlines,33
+Ankara,Copenhagen,Air France,89
+Ankara,Tallinn,Ryanair,55
+Ankara,Helsinki,United Airlines,45
+Ankara,Paris,Singapore Airlines,94
+Ankara,Tbilisi,Ryanair,48
+Ankara,Berlin,Qatar Airways,12
+Ankara,Athens,United Airlines,20
+Ankara,Budapest,LOT,35
+Ankara,Reykjavik,Ryanair,85
+Ankara,Dublin,LOT,08
+Ankara,Rome,United Airlines,65
+Ankara,Pristina,British Airways,31
+Ankara,Riga,LOT,47
+Ankara,Vaduz,Wizz Air,57
+Ankara,Vilnius,Emirates,32
+Ankara,Luxembourg,British Airways,07
+Ankara,Skopje,Lufthansa,75
+Ankara,Valletta,United Airlines,23
+Ankara,Chisinau,Qatar Airways,23
+Ankara,Monaco,Singapore Airlines,58
+Ankara,Podgorica,Emirates,44
+Ankara,Amsterdam,Emirates,89
+Ankara,Oslo,Wizz Air,30
+Ankara,Warsaw,Lufthansa,70
+Ankara,Lisbon,Air France,36
+Ankara,Bucharest,Ryanair,03
+Ankara,Moscow,British Airways,84
+Ankara,San Marino,Wizz Air,04
+Ankara,Belgrade,British Airways,39
+Ankara,Bratislava,Singapore Airlines,93
+Ankara,Ljubljana,United Airlines,38
+Ankara,Madrid,Qatar Airways,92
+Ankara,Stockholm,Wizz Air,41
+Ankara,Bern,Qatar Airways,15
+Ankara,Kyiv,Emirates,84
+Ankara,London,British Airways,20
+Kyiv,Andorra la Vella,Lufthansa,68
+Kyiv,Tirana,Ryanair,52
+Kyiv,Vienna,Ryanair,81
+Kyiv,Minsk,British Airways,53
+Kyiv,Brussels,Lufthansa,85
+Kyiv,Sarajevo,British Airways,11
+Kyiv,Sofia,LOT,84
+Kyiv,Zagreb,Ryanair,60
+Kyiv,Nicosia,Wizz Air,39
+Kyiv,Prague,United Airlines,03
+Kyiv,Copenhagen,Air France,55
+Kyiv,Tallinn,Ryanair,01
+Kyiv,Helsinki,Ryanair,37
+Kyiv,Paris,Wizz Air,88
+Kyiv,Tbilisi,Lufthansa,25
+Kyiv,Berlin,Qatar Airways,90
+Kyiv,Athens,Wizz Air,30
+Kyiv,Budapest,Air France,84
+Kyiv,Reykjavik,United Airlines,66
+Kyiv,Dublin,United Airlines,74
+Kyiv,Rome,British Airways,91
+Kyiv,Pristina,LOT,12
+Kyiv,Riga,British Airways,99
+Kyiv,Vaduz,United Airlines,67
+Kyiv,Vilnius,Singapore Airlines,25
+Kyiv,Luxembourg,Qatar Airways,54
+Kyiv,Skopje,Lufthansa,66
+Kyiv,Valletta,Qatar Airways,34
+Kyiv,Chisinau,Qatar Airways,76
+Kyiv,Monaco,Wizz Air,29
+Kyiv,Podgorica,Air France,65
+Kyiv,Amsterdam,United Airlines,24
+Kyiv,Oslo,Emirates,58
+Kyiv,Warsaw,LOT,02
+Kyiv,Lisbon,Emirates,10
+Kyiv,Bucharest,Air France,96
+Kyiv,Moscow,Ryanair,77
+Kyiv,San Marino,Wizz Air,74
+Kyiv,Belgrade,Qatar Airways,55
+Kyiv,Bratislava,Lufthansa,38
+Kyiv,Ljubljana,United Airlines,78
+Kyiv,Madrid,British Airways,91
+Kyiv,Stockholm,Lufthansa,48
+Kyiv,Bern,Singapore Airlines,82
+Kyiv,Ankara,Wizz Air,09
+Kyiv,London,United Airlines,39
+London,Andorra la Vella,LOT,98
+London,Tirana,Emirates,41
+London,Vienna,Qatar Airways,44
+London,Minsk,Air France,33
+London,Brussels,LOT,75
+London,Sarajevo,Emirates,27
+London,Sofia,Singapore Airlines,85
+London,Zagreb,British Airways,77
+London,Nicosia,Emirates,82
+London,Prague,Singapore Airlines,22
+London,Copenhagen,Qatar Airways,24
+London,Tallinn,LOT,96
+London,Helsinki,British Airways,04
+London,Paris,Emirates,96
+London,Tbilisi,Air France,33
+London,Berlin,British Airways,01
+London,Athens,Wizz Air,61
+London,Budapest,Qatar Airways,46
+London,Reykjavik,United Airlines,36
+London,Dublin,British Airways,94
+London,Rome,Wizz Air,59
+London,Pristina,Lufthansa,73
+London,Riga,Singapore Airlines,97
+London,Vaduz,Wizz Air,46
+London,Vilnius,United Airlines,36
+London,Luxembourg,Emirates,25
+London,Skopje,Qatar Airways,63
+London,Valletta,Lufthansa,65
+London,Chisinau,Wizz Air,53
+London,Monaco,Singapore Airlines,74
+London,Podgorica,Qatar Airways,05
+London,Amsterdam,United Airlines,77
+London,Oslo,Air France,40
+London,Warsaw,Air France,78
+London,Lisbon,British Airways,85
+London,Bucharest,British Airways,17
+London,Moscow,Air France,66
+London,San Marino,Singapore Airlines,20
+London,Belgrade,Emirates,51
+London,Bratislava,LOT,02
+London,Ljubljana,Air France,05
+London,Madrid,Singapore Airlines,03
+London,Stockholm,British Airways,20
+London,Bern,Emirates,03
+London,Ankara,Lufthansa,81
+London,Kyiv,United Airlines,91
